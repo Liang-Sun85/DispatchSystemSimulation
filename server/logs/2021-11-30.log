@@ -1,0 +1,960 @@
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 15:44:17"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 15:44:17"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 15:44:18"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 15:44:46"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: TOrder-01","timestamp":"2021-11-30 15:44:46"}
+{"level":"info","message":"Starting to dispatch vehicles...","timestamp":"2021-11-30 15:44:46"}
+{"level":"info","message":"Check if there are any idle vehicles that could process a transport order...","timestamp":"2021-11-30 15:44:46"}
+{"level":"info","message":"Vehicle ch_agv_2 shall process the transport order: TOrder-01","timestamp":"2021-11-30 15:44:46"}
+{"level":"info","message":"Start to process TOrder-01","timestamp":"2021-11-30 15:44:46"}
+{"level":"info","message":"The sequence of destinations to visit are PP2,LM3,LM8,LM4,AP5","timestamp":"2021-11-30 15:44:46"}
+{"level":"info","message":"The sequence of destinations to visit are AP5,LM6,AP7","timestamp":"2021-11-30 15:44:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 0","timestamp":"2021-11-30 15:44:46"}
+{"level":"info","message":"Assigning PP2-LM3 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:44:46"}
+{"level":"info","message":"source_id: PP2 id: LM3 valid: true parking_mark: false task_id: 1638258286528","timestamp":"2021-11-30 15:44:46"}
+{"level":"info","message":"source_id: PP2 id: LM3 valid: true parking_mark: false task_id: 1638258286528 operation: null","timestamp":"2021-11-30 15:44:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 2","timestamp":"2021-11-30 15:44:47"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 15:44:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:50"}
+{"level":"info","message":"Assigning LM3-LM8 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:44:50"}
+{"level":"info","message":"source_id: LM3 id: LM8 valid: true parking_mark: false task_id: 1638258286528","timestamp":"2021-11-30 15:44:50"}
+{"level":"info","message":"source_id: LM3 id: LM8 valid: true parking_mark: false task_id: 1638258286528 operation: null","timestamp":"2021-11-30 15:44:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:44:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:11"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:11"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:12"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:12"}
+{"level":"info","message":"Assigning LM8-LM4 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:45:12"}
+{"level":"info","message":"source_id: LM8 id: LM4 valid: true parking_mark: false task_id: 1638258286528","timestamp":"2021-11-30 15:45:12"}
+{"level":"info","message":"source_id: LM8 id: LM4 valid: true parking_mark: false task_id: 1638258286528 operation: null","timestamp":"2021-11-30 15:45:12"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:13"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:13"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:14"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:14"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:15"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:15"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:16"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:16"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:17"}
+{"level":"info","message":"Assigning LM4-AP5 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:45:17"}
+{"level":"info","message":"source_id: LM4 id: AP5 valid: true parking_mark: false task_id: 1638258286528","timestamp":"2021-11-30 15:45:17"}
+{"level":"info","message":"source_id: LM4 id: AP5 valid: true parking_mark: false task_id: 1638258286528 operation: [object Object]","timestamp":"2021-11-30 15:45:17"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:17"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:18"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:18"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:19"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:19"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:20"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:20"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:21"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:21"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:22"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:22"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:24"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:24"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:25"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:25"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:26"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:26"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:27"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:27"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:28"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:28"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:29"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:29"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:30"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:31"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:31"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:32"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:32"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:33"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:33"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:34"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:34"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:45:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:48"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-30 15:45:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:49"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 15:45:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:45:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 4; system intentStatus is 4","timestamp":"2021-11-30 15:46:10"}
+{"level":"info","message":"Assigning AP5-LM6 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:46:10"}
+{"level":"info","message":"source_id: AP5 id: LM6 valid: true parking_mark: false task_id: 1638258286529","timestamp":"2021-11-30 15:46:10"}
+{"level":"info","message":"source_id: AP5 id: LM6 valid: true parking_mark: false task_id: 1638258286529 operation: null","timestamp":"2021-11-30 15:46:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 4; system intentStatus is 2","timestamp":"2021-11-30 15:46:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:11"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:11"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:12"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:12"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:13"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:13"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:14"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:14"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:15"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:15"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:16"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:17"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:17"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:18"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:18"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:19"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:19"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:20"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:20"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:21"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:21"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:22"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:22"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:23"}
+{"level":"info","message":"Assigning LM6-AP7 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:46:23"}
+{"level":"info","message":"source_id: LM6 id: AP7 valid: true parking_mark: true task_id: 1638258286529","timestamp":"2021-11-30 15:46:23"}
+{"level":"info","message":"source_id: LM6 id: AP7 valid: true parking_mark: true task_id: 1638258286529 operation: [object Object]","timestamp":"2021-11-30 15:46:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:24"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:24"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:25"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:25"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:26"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:26"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:27"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:27"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:28"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:28"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:29"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:29"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:30"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:30"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:31"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:31"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:32"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:32"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:33"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:33"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:34"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:34"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:46:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 4","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"The current transport order has been finished.","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"Vehicle battery level is 1","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"No transport orders available.","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"Send vehicle ch_agv_2 to parking positions.","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"Parking position is PP2 for Vehicle ch_agv_2","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: Park-1638258416464","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"Starting to dispatch vehicles...","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"Vehicle ch_agv_2 shall process the transport order: Park-1638258416464","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"Start to process Park-1638258416464","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"The sequence of destinations to visit are AP7,LM4,LM8,LM3,PP2","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 0","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"Assigning AP7-LM4 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"source_id: AP7 id: LM4 valid: true parking_mark: false task_id: 1638258416473","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"source_id: AP7 id: LM4 valid: true parking_mark: false task_id: 1638258416473 operation: null","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 2","timestamp":"2021-11-30 15:46:56"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 15:46:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:46:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:09"}
+{"level":"info","message":"Assigning LM4-LM8 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:47:09"}
+{"level":"info","message":"source_id: LM4 id: LM8 valid: true parking_mark: false task_id: 1638258416473","timestamp":"2021-11-30 15:47:09"}
+{"level":"info","message":"source_id: LM4 id: LM8 valid: true parking_mark: false task_id: 1638258416473 operation: null","timestamp":"2021-11-30 15:47:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:11"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:11"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:12"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:12"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:13"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:13"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:14"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:14"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:15"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:15"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:16"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:16"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:17"}
+{"level":"info","message":"Assigning LM8-LM3 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:47:17"}
+{"level":"info","message":"source_id: LM8 id: LM3 valid: true parking_mark: false task_id: 1638258416473","timestamp":"2021-11-30 15:47:17"}
+{"level":"info","message":"source_id: LM8 id: LM3 valid: true parking_mark: false task_id: 1638258416473 operation: null","timestamp":"2021-11-30 15:47:17"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:17"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:18"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:18"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:19"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:20"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:20"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:21"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:21"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:22"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:22"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:23"}
+{"level":"info","message":"Assigning LM3-PP2 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:47:23"}
+{"level":"info","message":"source_id: LM3 id: PP2 valid: true parking_mark: true task_id: 1638258416473","timestamp":"2021-11-30 15:47:23"}
+{"level":"info","message":"source_id: LM3 id: PP2 valid: true parking_mark: true task_id: 1638258416473 operation: [object Object]","timestamp":"2021-11-30 15:47:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:24"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:24"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:25"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:25"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:26"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:26"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:27"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:27"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:28"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:28"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:29"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:29"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:30"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:30"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:31"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:31"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:32"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:32"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:33"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:33"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:34"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:34"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:47:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:47:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:47:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:47:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:47:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:48:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:48:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:48:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:48:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:48:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:48:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:48:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:48:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 4","timestamp":"2021-11-30 15:48:04"}
+{"level":"info","message":"The current transport order has been finished.","timestamp":"2021-11-30 15:48:04"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 15:50:09"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: TOrder-01","timestamp":"2021-11-30 15:50:09"}
+{"level":"info","message":"Starting to dispatch vehicles...","timestamp":"2021-11-30 15:50:09"}
+{"level":"info","message":"Check if there are any idle vehicles that could process a transport order...","timestamp":"2021-11-30 15:50:09"}
+{"level":"info","message":"Vehicle ch_agv_2 shall process the transport order: TOrder-01","timestamp":"2021-11-30 15:50:09"}
+{"level":"info","message":"Start to process TOrder-01","timestamp":"2021-11-30 15:50:09"}
+{"level":"info","message":"The sequence of destinations to visit are PP2,LM3,LM8,LM4,AP5","timestamp":"2021-11-30 15:50:09"}
+{"level":"info","message":"The sequence of destinations to visit are AP5,LM6,AP7","timestamp":"2021-11-30 15:50:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 0","timestamp":"2021-11-30 15:50:09"}
+{"level":"info","message":"Assigning PP2-LM3 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:50:09"}
+{"level":"info","message":"source_id: PP2 id: LM3 valid: true parking_mark: false task_id: 1638258609763","timestamp":"2021-11-30 15:50:09"}
+{"level":"info","message":"source_id: PP2 id: LM3 valid: true parking_mark: false task_id: 1638258609763 operation: null","timestamp":"2021-11-30 15:50:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 2","timestamp":"2021-11-30 15:50:10"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 15:50:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:11"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:11"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:12"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:12"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:13"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:13"}
+{"level":"info","message":"Assigning LM3-LM8 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:50:13"}
+{"level":"info","message":"source_id: LM3 id: LM8 valid: true parking_mark: false task_id: 1638258609763","timestamp":"2021-11-30 15:50:13"}
+{"level":"info","message":"source_id: LM3 id: LM8 valid: true parking_mark: false task_id: 1638258609763 operation: null","timestamp":"2021-11-30 15:50:13"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:14"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:14"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:15"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:15"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:16"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:16"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:17"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:17"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:18"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:19"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:19"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:20"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:20"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:21"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:21"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:22"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:22"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:24"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:24"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:25"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:25"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:26"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:26"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:27"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:27"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:28"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:28"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 15:50:28"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: TOrder-02","timestamp":"2021-11-30 15:50:28"}
+{"level":"info","message":"Starting to dispatch vehicles...","timestamp":"2021-11-30 15:50:28"}
+{"level":"info","message":"Check if there are any idle vehicles that could process a transport order...","timestamp":"2021-11-30 15:50:28"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:29"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:29"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:30"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:30"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:31"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:31"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:32"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:32"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:33"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:33"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:34"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:34"}
+{"level":"info","message":"Assigning LM8-LM4 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:50:34"}
+{"level":"info","message":"source_id: LM8 id: LM4 valid: true parking_mark: false task_id: 1638258609763","timestamp":"2021-11-30 15:50:34"}
+{"level":"info","message":"source_id: LM8 id: LM4 valid: true parking_mark: false task_id: 1638258609763 operation: null","timestamp":"2021-11-30 15:50:34"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:39"}
+{"level":"info","message":"Assigning LM4-AP5 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:50:39"}
+{"level":"info","message":"source_id: LM4 id: AP5 valid: true parking_mark: false task_id: 1638258609763","timestamp":"2021-11-30 15:50:39"}
+{"level":"info","message":"source_id: LM4 id: AP5 valid: true parking_mark: false task_id: 1638258609763 operation: [object Object]","timestamp":"2021-11-30 15:50:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:50:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:11"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:11"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:12"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:12"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:13"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:13"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:14"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:14"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:15"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:15"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:16"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:16"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:17"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:17"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:18"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:18"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:19"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:19"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:20"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:20"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:21"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:21"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:22"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:22"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:51:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 4; system intentStatus is 4","timestamp":"2021-11-30 15:51:23"}
+{"level":"info","message":"Assigning AP5-LM6 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:51:23"}
+{"level":"info","message":"source_id: AP5 id: LM6 valid: true parking_mark: false task_id: 1638258609764","timestamp":"2021-11-30 15:51:23"}
+{"level":"info","message":"source_id: AP5 id: LM6 valid: true parking_mark: false task_id: 1638258609764 operation: null","timestamp":"2021-11-30 15:51:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 4; system intentStatus is 2","timestamp":"2021-11-30 15:51:24"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:24"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:25"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:25"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:26"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:26"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:27"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:27"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:28"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:28"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:29"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:30"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:30"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:31"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:31"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:32"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:32"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:33"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:33"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:34"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:34"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:36"}
+{"level":"info","message":"Assigning LM6-AP7 to Vehicle ch_agv_2","timestamp":"2021-11-30 15:51:36"}
+{"level":"info","message":"source_id: LM6 id: AP7 valid: true parking_mark: true task_id: 1638258609764","timestamp":"2021-11-30 15:51:36"}
+{"level":"info","message":"source_id: LM6 id: AP7 valid: true parking_mark: true task_id: 1638258609764 operation: [object Object]","timestamp":"2021-11-30 15:51:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:51:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:52:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:52:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:52:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:52:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:52:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:52:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:52:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:52:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:52:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 15:52:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:52:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:52:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:52:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:52:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:52:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:52:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:52:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:52:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 15:52:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 4","timestamp":"2021-11-30 15:52:10"}
+{"level":"info","message":"The current transport order has been finished.","timestamp":"2021-11-30 15:52:10"}
+{"level":"info","message":"Vehicle battery level is 0.1","timestamp":"2021-11-30 15:52:10"}
+{"level":"info","message":"There are some charge points available...","timestamp":"2021-11-30 15:52:10"}
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 15:56:03"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 15:56:03"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 15:56:04"}
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 15:56:23"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 15:56:23"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 15:56:24"}
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 15:58:06"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 15:58:07"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 15:58:07"}
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 16:00:19"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 16:00:19"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:00:20"}
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 16:14:01"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 16:14:02"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:14:03"}
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 16:16:42"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 16:16:42"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:16:43"}
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 16:18:40"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 16:18:40"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:18:41"}
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 16:20:19"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:20:20"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 16:20:24"}
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 16:25:29"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 16:25:29"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:25:30"}
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 16:36:20"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 16:36:21"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:36:21"}
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 16:37:32"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 16:37:33"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:37:33"}
+{"level":"info","message":"Service start.","timestamp":"2021-11-30 16:49:16"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-30 16:49:16"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:49:17"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:49:22"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: Charge-1638262162424","timestamp":"2021-11-30 16:49:22"}
+{"level":"info","message":"Starting to dispatch vehicles...","timestamp":"2021-11-30 16:49:22"}
+{"level":"info","message":"Vehicle ch_agv_2 shall process the transport order: Charge-1638262162424","timestamp":"2021-11-30 16:49:22"}
+{"level":"info","message":"Start to process Charge-1638262162424","timestamp":"2021-11-30 16:49:22"}
+{"level":"info","message":"The sequence of destinations to visit are PP2,LM10,CP11","timestamp":"2021-11-30 16:49:22"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 0","timestamp":"2021-11-30 16:49:22"}
+{"level":"info","message":"Assigning PP2-LM10 to Vehicle ch_agv_2","timestamp":"2021-11-30 16:49:22"}
+{"level":"info","message":"source_id: PP2 id: LM10 valid: true parking_mark: false task_id: 1638262162434","timestamp":"2021-11-30 16:49:22"}
+{"level":"info","message":"source_id: PP2 id: LM10 valid: true parking_mark: false task_id: 1638262162434 operation: null","timestamp":"2021-11-30 16:49:22"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 2","timestamp":"2021-11-30 16:49:22"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:49:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:23"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:24"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:24"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:25"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:26"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:26"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:27"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:27"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:28"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:28"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:29"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:29"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:30"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:30"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:31"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:31"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:32"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:32"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:33"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:33"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:34"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:34"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:37"}
+{"level":"info","message":"Assigning LM10-CP11 to Vehicle ch_agv_2","timestamp":"2021-11-30 16:49:37"}
+{"level":"info","message":"source_id: LM10 id: CP11 valid: true parking_mark: true task_id: 1638262162434","timestamp":"2021-11-30 16:49:37"}
+{"level":"info","message":"source_id: LM10 id: CP11 valid: true parking_mark: true task_id: 1638262162434 operation: [object Object]","timestamp":"2021-11-30 16:49:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:49:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:50:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:50:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:50:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:50:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:50:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 0; system intentStatus is 4","timestamp":"2021-11-30 16:50:10"}
+{"level":"info","message":"The current transport order has been finished.","timestamp":"2021-11-30 16:50:10"}
+{"level":"info","message":"Parking position is PP2 for Vehicle ch_agv_2","timestamp":"2021-11-30 16:53:35"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:53:35"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: Park-1638262415829","timestamp":"2021-11-30 16:53:35"}
+{"level":"info","message":"Starting to dispatch vehicles...","timestamp":"2021-11-30 16:53:35"}
+{"level":"info","message":"Vehicle ch_agv_2 shall process the transport order: Park-1638262415829","timestamp":"2021-11-30 16:53:35"}
+{"level":"info","message":"Start to process Park-1638262415829","timestamp":"2021-11-30 16:53:35"}
+{"level":"info","message":"The sequence of destinations to visit are CP11,LM10,PP2","timestamp":"2021-11-30 16:53:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 0; system intentStatus is 0","timestamp":"2021-11-30 16:53:35"}
+{"level":"info","message":"Assigning CP11-LM10 to Vehicle ch_agv_2","timestamp":"2021-11-30 16:53:35"}
+{"level":"info","message":"source_id: CP11 id: LM10 valid: true parking_mark: false task_id: 1638262415845","timestamp":"2021-11-30 16:53:35"}
+{"level":"info","message":"source_id: CP11 id: LM10 valid: true parking_mark: false task_id: 1638262415845 operation: null","timestamp":"2021-11-30 16:53:35"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 0; system intentStatus is 2","timestamp":"2021-11-30 16:53:36"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-30 16:53:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:36"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:37"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:38"}
+{"level":"info","message":"Vehicle ch_agv_2 at CP11, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:39"}
+{"level":"info","message":"Assigning LM10-PP2 to Vehicle ch_agv_2","timestamp":"2021-11-30 16:53:39"}
+{"level":"info","message":"source_id: LM10 id: PP2 valid: true parking_mark: true task_id: 1638262415845","timestamp":"2021-11-30 16:53:39"}
+{"level":"info","message":"source_id: LM10 id: PP2 valid: true parking_mark: true task_id: 1638262415845 operation: [object Object]","timestamp":"2021-11-30 16:53:39"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:40"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:41"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:42"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:43"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:44"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:45"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:46"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:47"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:48"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:49"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:50"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:51"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:52"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:53"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:54"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:55"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:56"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:57"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:58"}
+{"level":"info","message":"Vehicle ch_agv_2 at LM10, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:53:59"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:54:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:54:00"}
+{"level":"info","message":"Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:54:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2","timestamp":"2021-11-30 16:54:01"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:02"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:03"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:04"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:05"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:06"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:07"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:08"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:09"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:10"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:11"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:11"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:12"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:12"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:13"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:13"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:14"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:14"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:15"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:15"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:16"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:16"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:17"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4","timestamp":"2021-11-30 16:54:17"}
+{"level":"info","message":"Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 4","timestamp":"2021-11-30 16:54:18"}
+{"level":"info","message":"The current transport order has been finished.","timestamp":"2021-11-30 16:54:18"}

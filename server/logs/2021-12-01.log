@@ -1,0 +1,1725 @@
+[info] [2021-12-01T08:11:12.687Z] : Service start.
+[warn] [2021-12-01T08:11:12.693Z] : Service start warn.
+[error] [2021-12-01T08:11:12.693Z] : Service start error.
+[info] [2021-12-01T08:11:13.716Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:11:23.559Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:11:23.563Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:11:23.563Z] : There is a new transport order.
+[info] [2021-12-01T08:11:23.564Z] : The new transport order is TOrder-03
+[info] [2021-12-01T08:11:23.564Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:11:23.565Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:14:15.350Z] : Service start.
+[warn] [2021-12-01T08:14:15.352Z] : Service start warn.
+[error] [2021-12-01T08:14:15.353Z] : Service start error.
+[info] [2021-12-01T08:14:16.384Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:14:57.635Z] : Service start.
+[warn] [2021-12-01T08:14:57.637Z] : Service start warn.
+[error] [2021-12-01T08:14:57.638Z] : Service start error.
+[info] [2021-12-01T08:14:58.661Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:15:11.080Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:15:11.083Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:15:11.084Z] : There is a new transport order.
+[info] [2021-12-01T08:15:11.084Z] : The new transport order is TOrder-03
+[info] [2021-12-01T08:15:11.085Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:15:11.085Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:15:11.086Z] : The vehicle that could process the transport order is [object Object]
+[info] [2021-12-01T08:15:11.087Z] : Start to process TOrder-03
+[info] [2021-12-01T08:15:11.087Z] : The sequence of destinations to visit are PP2,LM3,LM8,LM4,AP5
+[info] [2021-12-01T08:15:11.088Z] : The sequence of destinations to visit are AP5,LM6,AP7
+[info] [2021-12-01T08:15:11.093Z] : Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 0
+[info] [2021-12-01T08:15:11.099Z] : Assigning to Vehicle source_id: PP2 id: LM3 valid: true parking_mark: false task_id: 1638346511087
+[info] [2021-12-01T08:15:59.254Z] : Service start.
+[warn] [2021-12-01T08:15:59.258Z] : Service start warn.
+[error] [2021-12-01T08:15:59.258Z] : Service start error.
+[info] [2021-12-01T08:16:00.289Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:17:10.940Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:17:10.944Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:17:10.944Z] : There is a new transport order.
+[info] [2021-12-01T08:17:10.945Z] : The new transport order is TOrder-01
+[info] [2021-12-01T08:17:10.945Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:17:10.946Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:17:10.949Z] : The vehicle that could process the transport order is [object Object]
+[info] [2021-12-01T08:17:10.950Z] : Start to process TOrder-01
+[info] [2021-12-01T08:17:10.951Z] : The sequence of destinations to visit are PP2,LM3,LM8,LM4,AP5
+[info] [2021-12-01T08:17:10.951Z] : The sequence of destinations to visit are AP5,LM6,AP7
+[info] [2021-12-01T08:17:10.957Z] : Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 0
+[info] [2021-12-01T08:17:10.962Z] : Assigning to Vehicle source_id: PP2 id: LM3 valid: true parking_mark: false task_id: 1638346630950
+[info] [2021-12-01T08:18:15.528Z] : Service start.
+[warn] [2021-12-01T08:18:15.532Z] : Service start warn.
+[error] [2021-12-01T08:18:15.533Z] : Service start error.
+[info] [2021-12-01T08:18:16.561Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:22:37.007Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:22:37.011Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:22:37.011Z] : There is a new transport order.
+[info] [2021-12-01T08:22:37.012Z] : The new transport order is TOrder-01
+[info] [2021-12-01T08:22:37.012Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:22:37.012Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:22:37.014Z] : The vehicle that could process the transport order is [object Object]
+[info] [2021-12-01T08:22:37.015Z] : Start to process TOrder-01
+[info] [2021-12-01T08:22:37.015Z] : The sequence of destinations to visit are PP2,LM3,LM8,LM4,AP5
+[info] [2021-12-01T08:22:37.016Z] : The sequence of destinations to visit are AP5,LM6,AP7
+[info] [2021-12-01T08:22:37.023Z] : Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 0
+[info] [2021-12-01T08:22:37.029Z] : Assigning to Vehicle source_id: PP2 id: LM3 valid: true parking_mark: false task_id: 1638346957015
+[info] [2021-12-01T08:24:37.978Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:27:16.976Z] : Service start.
+[warn] [2021-12-01T08:27:16.979Z] : Service start warn.
+[error] [2021-12-01T08:27:16.979Z] : Service start error.
+[info] [2021-12-01T08:27:18.006Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:27:45.617Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:27:45.620Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:27:45.621Z] : There is a new transport order.
+[info] [2021-12-01T08:27:45.622Z] : The new transport order is TOrder-01
+[info] [2021-12-01T08:27:45.622Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:27:45.623Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:27:45.624Z] : The vehicle that could process the transport order is [object Object]
+[info] [2021-12-01T08:27:45.627Z] : Start to process TOrder-01
+[info] [2021-12-01T08:27:45.629Z] : The sequence of destinations to visit are PP2,LM3,LM8,LM4,AP5
+[info] [2021-12-01T08:27:45.630Z] : The sequence of destinations to visit are AP5,LM6,AP7
+[info] [2021-12-01T08:27:45.637Z] : Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 0
+[info] [2021-12-01T08:27:45.641Z] : Assigning to Vehicle source_id: PP2 id: LM3 valid: true parking_mark: false task_id: 1638347265628
+[info] [2021-12-01T08:35:35.646Z] : Service start.
+[warn] [2021-12-01T08:35:35.648Z] : Service start warn.
+[error] [2021-12-01T08:35:35.649Z] : Service start error.
+[info] [2021-12-01T08:35:36.692Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:36:18.542Z] : Service start.
+[warn] [2021-12-01T08:36:18.545Z] : Service start warn.
+[error] [2021-12-01T08:36:18.545Z] : Service start error.
+[info] [2021-12-01T08:36:19.576Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:36:58.703Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:37:10.663Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:37:10.666Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:37:10.666Z] : There is a new transport order.
+[info] [2021-12-01T08:37:10.667Z] : The new transport order is TOrder-01
+[info] [2021-12-01T08:37:10.667Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:37:10.668Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:37:10.670Z] : The vehicle that could process the transport order is [object Object]
+[info] [2021-12-01T08:37:10.672Z] : Start to process TOrder-01
+[info] [2021-12-01T08:37:10.673Z] : The sequence of destinations to visit are PP2,LM3,LM8,LM4,AP5
+[info] [2021-12-01T08:37:10.674Z] : The sequence of destinations to visit are AP5,LM6,AP7
+[info] [2021-12-01T08:37:10.680Z] : Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 0
+[info] [2021-12-01T08:37:10.684Z] : Assigning to Vehicle source_id: PP2 id: LM3 valid: true parking_mark: false task_id: 1638347830673
+[info] [2021-12-01T08:37:11.194Z] : Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T08:37:11.701Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:37:11.703Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:12.208Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:12.721Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:13.228Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:13.738Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:14.252Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:14.762Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:14.766Z] : Assigning to Vehicle source_id: LM3 id: LM8 valid: true parking_mark: false task_id: 1638347830673
+[info] [2021-12-01T08:37:15.279Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:15.790Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:16.293Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:16.802Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:17.316Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:17.826Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:18.331Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:18.855Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:19.366Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:19.875Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:20.391Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:20.904Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:21.411Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:21.923Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:22.427Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:22.931Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:23.450Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:23.954Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:24.469Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:24.980Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:25.491Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:26.006Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:26.518Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:27.035Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:27.539Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:28.052Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:28.555Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:29.060Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:29.576Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:30.089Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:30.594Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:31.102Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:31.606Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:32.110Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:32.625Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:33.151Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:33.660Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:34.171Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:34.688Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:35.198Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:35.729Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:36.237Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:36.746Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:37.260Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:37.773Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:38.290Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:38.793Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:39.309Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:39.810Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:39.815Z] : Assigning to Vehicle source_id: LM8 id: LM4 valid: true parking_mark: false task_id: 1638347830673
+[info] [2021-12-01T08:37:40.329Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:40.845Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:41.364Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:41.870Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:42.385Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:42.907Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:43.419Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:43.925Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:44.428Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:44.942Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:44.946Z] : Assigning to Vehicle source_id: LM4 id: AP5 valid: true parking_mark: false task_id: 1638347830673
+[info] [2021-12-01T08:37:45.451Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:45.969Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:46.476Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:46.991Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:47.511Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:48.027Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:48.533Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:49.053Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:49.558Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:50.071Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:50.585Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:51.095Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:51.605Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:52.111Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:52.625Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:53.129Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:53.637Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:54.155Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:54.665Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:55.169Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:55.673Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:56.193Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:56.703Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:57.210Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:57.724Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:58.227Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:58.743Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:59.248Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:37:59.771Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:00.278Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:00.787Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:01.294Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:01.803Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:02.311Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:02.827Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:03.337Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:03.853Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:04.361Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:04.872Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:05.381Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:05.893Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:06.398Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:06.915Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:07.421Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:07.925Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:08.431Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:08.939Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:09.456Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:09.973Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:10.484Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:11.000Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:11.505Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:12.016Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:12.530Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:13.048Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:13.563Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:14.078Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:14.586Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:15.106Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:15.612Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:16.125Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:16.633Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:17.143Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:17.649Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:18.164Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:18.671Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:19.195Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:19.701Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:20.223Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:20.737Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:21.240Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:21.748Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:22.260Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:22.765Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:23.268Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:23.775Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:24.290Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:24.803Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:25.314Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:25.827Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:26.337Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:26.838Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:27.353Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:27.864Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:28.369Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:28.899Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:29.411Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:29.915Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:30.432Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:38:30.945Z] : Vehicle ch_agv_2 at AP5, vehicle status is 4; system intentStatus is 4
+[info] [2021-12-01T08:38:30.947Z] : Assigning to Vehicle source_id: AP5 id: LM6 valid: true parking_mark: false task_id: 1638347830674
+[info] [2021-12-01T08:38:31.458Z] : Vehicle ch_agv_2 at AP5, vehicle status is 4; system intentStatus is 2
+[info] [2021-12-01T08:38:31.965Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:32.472Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:32.978Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:33.483Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:33.997Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:34.514Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:35.033Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:35.543Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:36.060Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:36.571Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:37.088Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:37.602Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:38.122Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:38.632Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:39.138Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:39.658Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:40.164Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:40.677Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:41.186Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:41.704Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:42.219Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:42.733Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:43.248Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:43.762Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:44.285Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:44.799Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:45.304Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:45.307Z] : Assigning to Vehicle source_id: LM6 id: AP7 valid: true parking_mark: true task_id: 1638347830674
+[info] [2021-12-01T08:38:45.816Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:46.328Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:46.836Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:47.350Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:47.860Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:48.373Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:48.880Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:49.396Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:49.912Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:50.415Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:50.921Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:51.432Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:51.945Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:52.457Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:52.974Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:53.480Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:53.991Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:54.504Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:55.010Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:55.517Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:56.035Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:56.542Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:57.052Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:57.565Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:58.084Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:58.598Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:59.110Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:38:59.629Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:00.141Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:00.648Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:01.164Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:01.682Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:02.201Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:02.719Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:03.237Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:03.750Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:04.262Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:04.776Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:05.283Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:05.802Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:06.318Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:06.834Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:07.351Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:07.861Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:08.374Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:08.896Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:09.406Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:09.931Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:10.439Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:10.949Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:11.462Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:11.970Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:12.486Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:12.998Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:13.503Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:14.011Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:14.516Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:15.031Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:15.545Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:16.062Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:16.571Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:17.082Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:17.588Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:39:18.106Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:39:18.610Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:39:19.114Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:39:19.631Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:39:20.147Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:39:20.658Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:39:21.160Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:39:21.673Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:39:22.176Z] : Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 4
+[info] [2021-12-01T08:39:22.177Z] : The current transport order has been finished.
+[info] [2021-12-01T08:39:22.180Z] : There are no transport order available.
+[info] [2021-12-01T08:39:22.181Z] : Parking position is PP2 for Vehicle ch_agv_2
+[info] [2021-12-01T08:39:22.182Z] : neworder : {"category":"Park","intendedVehicle":"ch_agv_2","destinations":[{"locationName":"PP2","operation":"park"}]}
+[info] [2021-12-01T08:39:22.188Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:39:22.188Z] : There is a new transport order.
+[info] [2021-12-01T08:39:22.189Z] : The new transport order is Park-1638347962182
+[info] [2021-12-01T08:39:22.189Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:39:22.191Z] : Start to process Park-1638347962182
+[info] [2021-12-01T08:39:22.191Z] : The sequence of destinations to visit are AP7,LM4,LM8,LM3,PP2
+[info] [2021-12-01T08:39:22.195Z] : Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 0
+[info] [2021-12-01T08:39:22.198Z] : Assigning to Vehicle source_id: AP7 id: LM4 valid: true parking_mark: false task_id: 1638347962191
+[info] [2021-12-01T08:39:22.715Z] : Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T08:39:23.206Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:39:23.223Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:23.734Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:24.254Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:24.765Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:25.272Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:25.786Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:26.296Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:26.807Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:27.319Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:27.823Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:28.333Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:28.850Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:29.359Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:29.872Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:30.393Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:30.901Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:31.405Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:31.913Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:32.427Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:32.940Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:33.443Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:33.946Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:34.465Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:34.975Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:35.490Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:35.493Z] : Assigning to Vehicle source_id: LM4 id: LM8 valid: true parking_mark: false task_id: 1638347962191
+[info] [2021-12-01T08:39:36.000Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:36.515Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:37.027Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:37.539Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:38.047Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:38.559Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:39.074Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:39.585Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:40.091Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:40.270Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:39:40.273Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:39:40.273Z] : There is a new transport order.
+[info] [2021-12-01T08:39:40.273Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:39:40.274Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:39:40.274Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:39:40.276Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:39:40.601Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:41.103Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:41.620Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:42.126Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:42.637Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:43.141Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:43.658Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:44.177Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:44.692Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:45.209Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:45.215Z] : Assigning to Vehicle source_id: LM8 id: LM3 valid: true parking_mark: false task_id: 1638347962191
+[info] [2021-12-01T08:39:45.725Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:46.238Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:46.754Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:47.270Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:47.783Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:48.287Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:48.790Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:49.302Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:49.807Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:50.317Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:50.827Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:51.336Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:51.340Z] : Assigning to Vehicle source_id: LM3 id: PP2 valid: true parking_mark: true task_id: 1638347962191
+[info] [2021-12-01T08:39:51.863Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:52.377Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:52.882Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:53.398Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:53.913Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:54.431Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:54.947Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:55.462Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:55.970Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:56.472Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:56.978Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:57.498Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:58.007Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:58.509Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:59.011Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:39:59.529Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:00.049Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:00.568Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:01.079Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:01.588Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:02.093Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:02.607Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:03.118Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:03.625Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:04.127Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:04.639Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:05.151Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:05.657Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:06.173Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:06.692Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:07.202Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:07.710Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:08.218Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:08.735Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:09.250Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:09.765Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:10.280Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:10.785Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:11.292Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:11.797Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:12.315Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:12.827Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:13.346Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:13.860Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:14.377Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:14.883Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:15.401Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:15.908Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:16.426Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:16.941Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:17.458Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:17.978Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:18.491Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:19.011Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:19.529Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:20.047Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:20.557Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:21.074Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:21.591Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:22.100Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:22.604Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:23.115Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:23.623Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:24.134Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:24.648Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:25.162Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:25.680Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:26.193Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:26.702Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:27.227Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:27.740Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:28.243Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:28.751Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:29.266Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:29.776Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:30.281Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:40:30.802Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:31.311Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:31.826Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:32.342Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:32.850Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:33.364Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:33.869Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:34.377Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:34.894Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:35.406Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:35.911Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:36.425Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:36.937Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:37.441Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:37.953Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:40:38.470Z] : Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 4
+[info] [2021-12-01T08:40:38.471Z] : The current transport order has been finished.
+[info] [2021-12-01T08:46:32.672Z] : Service start.
+[warn] [2021-12-01T08:46:32.676Z] : Service start warn.
+[error] [2021-12-01T08:46:32.677Z] : Service start error.
+[info] [2021-12-01T08:46:33.711Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:46:44.123Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:46:44.126Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:46:44.126Z] : There is a new transport order.
+[info] [2021-12-01T08:46:44.127Z] : The new transport order is TOrder-01
+[info] [2021-12-01T08:46:44.127Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:46:44.128Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:46:44.129Z] : The idle vehicle that could process the transport order is [object Object]
+[info] [2021-12-01T08:46:44.129Z] : Start to process TOrder-01
+[info] [2021-12-01T08:46:44.130Z] : The sequence of destinations to visit are PP2,LM3,LM8,LM4,AP5
+[info] [2021-12-01T08:46:44.130Z] : The sequence of destinations to visit are AP5,LM6,AP7
+[info] [2021-12-01T08:46:44.137Z] : Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 0
+[info] [2021-12-01T08:46:44.143Z] : Assigning to Vehicle source_id: PP2 id: LM3 valid: true parking_mark: false task_id: 1638348404130
+[info] [2021-12-01T08:46:44.666Z] : Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T08:46:45.151Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:46:45.183Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:45.693Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:46.196Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:46.702Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:47.210Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:47.724Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:48.227Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:48.231Z] : Assigning to Vehicle source_id: LM3 id: LM8 valid: true parking_mark: false task_id: 1638348404130
+[info] [2021-12-01T08:46:48.745Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:49.257Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:49.767Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:50.269Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:50.780Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:51.287Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:51.805Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:52.315Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:52.816Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:53.321Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:53.828Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:54.338Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:54.864Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:55.370Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:55.875Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:56.391Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:56.906Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:57.417Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:57.935Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:58.450Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:58.953Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:59.465Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:46:59.969Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:00.476Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:00.988Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:01.496Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:02.005Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:02.512Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:03.025Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:03.532Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:04.040Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:04.557Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:05.061Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:05.578Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:06.090Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:06.595Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:07.112Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:07.630Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:08.157Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:08.673Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:09.188Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:09.697Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:10.207Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:10.714Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:11.228Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:11.736Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:12.254Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:12.260Z] : Assigning to Vehicle source_id: LM8 id: LM4 valid: true parking_mark: false task_id: 1638348404130
+[info] [2021-12-01T08:47:12.776Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:13.284Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:13.793Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:14.302Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:14.809Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:15.327Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:15.838Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:16.354Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:16.861Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:17.367Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:17.878Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:18.385Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:18.392Z] : Assigning to Vehicle source_id: LM4 id: AP5 valid: true parking_mark: false task_id: 1638348404130
+[info] [2021-12-01T08:47:18.897Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:19.408Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:19.918Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:20.430Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:20.943Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:21.446Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:21.953Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:22.466Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:22.974Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:23.488Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:23.997Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:24.509Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:25.022Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:25.527Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:26.038Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:26.550Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:27.054Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:27.582Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:28.090Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:28.604Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:29.113Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:29.623Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:30.140Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:30.655Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:31.160Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:31.668Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:32.180Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:32.692Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:33.197Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:33.711Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:34.221Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:34.738Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:35.255Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:35.768Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:36.271Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:36.778Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:37.286Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:37.795Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:38.302Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:38.809Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:39.320Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:39.830Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:40.336Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:40.849Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:41.368Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:41.881Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:42.385Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:42.891Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:43.399Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:43.903Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:44.414Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:44.928Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:45.432Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:45.947Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:46.464Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:46.968Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:47.473Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:47.993Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:48.496Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:47:49.007Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:49.522Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:50.033Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:50.545Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:51.061Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:51.572Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:52.083Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:52.596Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:53.114Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:53.619Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:54.128Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:54.641Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:55.144Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:55.656Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:56.164Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:56.673Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:57.185Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:57.697Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:58.201Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:58.705Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:59.214Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:47:59.721Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:00.225Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:00.739Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:01.252Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:01.763Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:02.275Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:02.788Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:03.301Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:03.804Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:04.315Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:04.826Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:05.333Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:05.847Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:06.350Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:06.855Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:07.367Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:07.873Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:08.382Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:08.901Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:09.403Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:09.919Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:10.428Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:10.937Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:11.450Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:11.957Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:12.463Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:12.971Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:13.480Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:13.986Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:14.504Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:15.011Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:48:15.515Z] : Vehicle ch_agv_2 at AP5, vehicle status is 4; system intentStatus is 4
+[info] [2021-12-01T08:48:15.524Z] : Assigning to Vehicle source_id: AP5 id: LM6 valid: true parking_mark: false task_id: 1638348404131
+[info] [2021-12-01T08:48:16.047Z] : Vehicle ch_agv_2 at AP5, vehicle status is 4; system intentStatus is 2
+[info] [2021-12-01T08:48:16.563Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:17.079Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:17.593Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:18.111Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:18.626Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:19.140Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:19.657Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:20.167Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:20.681Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:21.187Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:21.700Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:22.204Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:22.708Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:23.217Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:23.742Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:24.258Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:24.770Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:25.288Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:25.805Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:26.321Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:26.841Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:27.359Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:27.867Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:28.381Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:28.898Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:29.413Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:29.416Z] : Assigning to Vehicle source_id: LM6 id: AP7 valid: true parking_mark: true task_id: 1638348404131
+[info] [2021-12-01T08:48:29.928Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:30.442Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:30.946Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:31.458Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:31.967Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:32.475Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:32.984Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:33.492Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:34.003Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:34.516Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:35.023Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:35.534Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:36.051Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:36.569Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:37.081Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:37.584Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:38.100Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:38.613Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:39.124Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:39.631Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:40.139Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:40.647Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:41.154Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:41.675Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:42.179Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:42.692Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:43.213Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:43.721Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:44.227Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:44.745Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:45.259Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:45.782Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:46.296Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:46.806Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:47.316Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:47.829Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:48.333Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:48.842Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:49.352Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:49.862Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:50.374Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:50.887Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:51.405Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:51.923Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:52.436Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:52.960Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:53.482Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:53.997Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:54.516Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:55.019Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:55.535Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:56.043Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:56.554Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:57.071Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:57.574Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:58.086Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:58.600Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:59.103Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:48:59.616Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:00.128Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:00.633Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:01.144Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:01.658Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:02.171Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:49:02.680Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:49:03.189Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:49:03.696Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:49:04.212Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:49:04.725Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:49:05.238Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:49:05.752Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:49:06.266Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:49:06.774Z] : Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 4
+[info] [2021-12-01T08:49:06.775Z] : The current transport order has been finished.
+[info] [2021-12-01T08:49:06.779Z] : There are no transport order available.
+[info] [2021-12-01T08:49:06.781Z] : Parking position is PP2 for Vehicle ch_agv_2
+[info] [2021-12-01T08:49:06.782Z] : neworder : {"category":"Park","intendedVehicle":"ch_agv_2","destinations":[{"locationName":"PP2","operation":"park"}]}
+[info] [2021-12-01T08:49:06.798Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:49:06.799Z] : There is a new transport order.
+[info] [2021-12-01T08:49:06.800Z] : The new transport order is Park-1638348546782
+[info] [2021-12-01T08:49:06.801Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:49:06.802Z] : Start to process Park-1638348546782
+[info] [2021-12-01T08:49:06.803Z] : The sequence of destinations to visit are AP7,LM4,LM8,LM3,PP2
+[info] [2021-12-01T08:49:06.812Z] : Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 0
+[info] [2021-12-01T08:49:06.816Z] : Assigning to Vehicle source_id: AP7 id: LM4 valid: true parking_mark: false task_id: 1638348546803
+[info] [2021-12-01T08:49:07.330Z] : Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T08:49:07.821Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:49:07.837Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:08.348Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:08.857Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:09.372Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:09.880Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:10.395Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:10.907Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:11.411Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:11.919Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:12.422Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:12.938Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:13.454Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:13.959Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:14.464Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:14.968Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:15.484Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:15.998Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:16.515Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:17.029Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:17.532Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:18.043Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:18.552Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:19.067Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:19.580Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:20.082Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:20.593Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:20.599Z] : Assigning to Vehicle source_id: LM4 id: LM8 valid: true parking_mark: false task_id: 1638348546803
+[info] [2021-12-01T08:49:21.109Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:21.625Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:22.141Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:22.647Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:23.159Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:23.664Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:24.167Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:24.675Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:25.191Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:25.707Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:26.213Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:26.725Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:27.237Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:27.745Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:28.258Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:28.772Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:29.276Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:29.798Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:29.809Z] : Assigning to Vehicle source_id: LM8 id: LM3 valid: true parking_mark: false task_id: 1638348546803
+[info] [2021-12-01T08:49:30.326Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:30.849Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:31.355Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:31.857Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:32.366Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:32.885Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:33.406Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:33.917Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:34.349Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:49:34.353Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:49:34.354Z] : There is a new transport order.
+[info] [2021-12-01T08:49:34.354Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:49:34.355Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:49:34.356Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:49:34.357Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:49:34.434Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:34.988Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:35.494Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:36.000Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:36.507Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:37.017Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:37.029Z] : Assigning to Vehicle source_id: LM3 id: PP2 valid: true parking_mark: true task_id: 1638348546803
+[info] [2021-12-01T08:49:37.540Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:38.056Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:38.569Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:39.086Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:39.602Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:40.105Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:40.611Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:41.118Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:41.630Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:42.134Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:42.648Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:43.154Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:43.660Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:44.163Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:44.675Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:45.178Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:45.685Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:46.196Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:46.705Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:47.215Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:47.740Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:48.255Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:48.770Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:49.278Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:49.787Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:50.300Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:50.819Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:51.332Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:51.849Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:52.362Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:52.865Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:53.378Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:53.883Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:54.393Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:54.908Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:55.426Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:55.929Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:56.445Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:56.950Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:57.468Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:57.979Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:58.495Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:59.002Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:49:59.515Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:00.029Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:00.538Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:01.041Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:01.558Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:02.063Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:02.571Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:03.086Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:03.591Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:04.120Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:04.634Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:05.147Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:05.662Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:06.173Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:06.688Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:07.196Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:07.706Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:08.233Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:08.751Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:09.255Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:09.765Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:10.271Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:10.793Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:11.297Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:11.826Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:12.343Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:12.852Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:13.357Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:13.864Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:14.376Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:14.894Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:15.412Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:15.927Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:50:16.442Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:16.960Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:17.480Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:18.000Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:18.516Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:19.038Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:19.551Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:20.068Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:20.575Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:21.088Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:21.611Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:22.125Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:22.640Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:50:23.153Z] : Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 4
+[info] [2021-12-01T08:50:23.154Z] : The current transport order has been finished.
+[info] [2021-12-01T08:52:48.546Z] : Service start.
+[warn] [2021-12-01T08:52:48.548Z] : Service start warn.
+[error] [2021-12-01T08:52:48.548Z] : Service start error.
+[info] [2021-12-01T08:52:49.582Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:52:56.778Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:52:56.782Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:52:56.782Z] : There is a new transport order.
+[info] [2021-12-01T08:52:56.783Z] : The new transport order is TOrder-01
+[info] [2021-12-01T08:52:56.784Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:52:56.784Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:52:56.786Z] : The idle vehicle that could process the transport order is [object Object]
+[info] [2021-12-01T08:52:56.786Z] : Start to process TOrder-01
+[info] [2021-12-01T08:52:56.787Z] : The sequence of destinations to visit are PP2,LM3,LM8,LM4,AP5
+[info] [2021-12-01T08:52:56.787Z] : The sequence of destinations to visit are AP5,LM6,AP7
+[info] [2021-12-01T08:52:56.791Z] : Vehicle ch_agv_2 at PP2, vehicle status is 0; system intentStatus is 0
+[info] [2021-12-01T08:52:56.795Z] : Assigning to Vehicle source_id: PP2 id: LM3 valid: true parking_mark: false task_id: 1638348776787
+[info] [2021-12-01T08:52:57.305Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:52:57.812Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:52:57.814Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:52:58.320Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:52:58.829Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:52:59.337Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:52:59.852Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:00.371Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:00.890Z] : Vehicle ch_agv_2 at PP2, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:01.398Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:01.407Z] : Assigning to Vehicle source_id: LM3 id: LM8 valid: true parking_mark: false task_id: 1638348776787
+[info] [2021-12-01T08:53:01.920Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:02.432Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:02.940Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:03.450Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:03.953Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:04.468Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:04.975Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:05.486Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:05.991Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:06.497Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:07.010Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:07.515Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:08.024Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:08.531Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:09.037Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:09.549Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:10.054Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:10.565Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:11.078Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:11.594Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:12.108Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:12.618Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:13.125Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:13.628Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:14.132Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:14.642Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:15.152Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:15.658Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:16.175Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:16.690Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:17.197Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:17.710Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:18.222Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:18.732Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:19.239Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:19.747Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:20.255Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:20.772Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:21.285Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:21.794Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:22.304Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:22.812Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:23.320Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:23.836Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:24.351Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:24.855Z] : Vehicle ch_agv_2 at LM3, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:25.369Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:25.373Z] : Assigning to Vehicle source_id: LM8 id: LM4 valid: true parking_mark: false task_id: 1638348776787
+[info] [2021-12-01T08:53:25.880Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:26.387Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:26.899Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:27.417Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:27.933Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:28.450Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:28.955Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:29.466Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:29.980Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:30.489Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:31.002Z] : Vehicle ch_agv_2 at LM8, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:31.510Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:31.513Z] : Assigning to Vehicle source_id: LM4 id: AP5 valid: true parking_mark: false task_id: 1638348776787
+[info] [2021-12-01T08:53:32.021Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:32.528Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:33.042Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:33.561Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:34.075Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:34.581Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:35.084Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:35.598Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:36.102Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:36.619Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:37.127Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:37.638Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:38.158Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:38.667Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:39.173Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:39.677Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:40.179Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:40.694Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:41.200Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:41.712Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:42.220Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:42.733Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:43.247Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:43.753Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:44.258Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:44.769Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:45.280Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:45.787Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:46.303Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:46.831Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:47.347Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:47.853Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:48.363Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:48.881Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:49.398Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:49.902Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:50.414Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:50.932Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:51.446Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:51.953Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:52.461Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:52.973Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:53.484Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:53.993Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:54.510Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:55.019Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:55.528Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:56.035Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:56.554Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:57.059Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:57.564Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:58.077Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:58.588Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:59.106Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:53:59.618Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:00.125Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:00.639Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:01.145Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:01.659Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:02.165Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:02.686Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:03.203Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:03.717Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:04.235Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:04.751Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:05.260Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:05.773Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:06.282Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:06.795Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:07.305Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:07.812Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:08.314Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:08.821Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:09.330Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:09.838Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:10.350Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:10.868Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:11.371Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:11.878Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:12.395Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:12.906Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:13.424Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:13.926Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:14.442Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:14.950Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:15.458Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:15.966Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:16.473Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:16.990Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:17.504Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:18.006Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:18.521Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:19.030Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:19.546Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:20.050Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:20.553Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:21.057Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:21.570Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:22.078Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:22.587Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:23.093Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:23.603Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:24.113Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:24.619Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:25.128Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:25.636Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:26.153Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:26.665Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:27.168Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:27.673Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:28.185Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:28.696Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:29.213Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:54:29.717Z] : Vehicle ch_agv_2 at AP5, vehicle status is 4; system intentStatus is 4
+[info] [2021-12-01T08:54:29.725Z] : Assigning to Vehicle source_id: AP5 id: LM6 valid: true parking_mark: false task_id: 1638348776788
+[info] [2021-12-01T08:54:30.238Z] : Vehicle ch_agv_2 at AP5, vehicle status is 4; system intentStatus is 2
+[info] [2021-12-01T08:54:30.744Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:31.256Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:31.771Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:32.288Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:32.795Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:33.299Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:33.811Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:34.330Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:34.845Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:35.354Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:35.868Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:36.386Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:36.906Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:37.415Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:37.923Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:38.431Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:38.934Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:39.441Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:39.949Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:40.456Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:40.965Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:41.469Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:41.981Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:42.491Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:43.001Z] : Vehicle ch_agv_2 at AP5, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:43.518Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:43.522Z] : Assigning to Vehicle source_id: LM6 id: AP7 valid: true parking_mark: true task_id: 1638348776788
+[info] [2021-12-01T08:54:44.036Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:44.549Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:45.052Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:45.564Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:46.071Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:46.591Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:47.106Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:47.616Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:48.126Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:48.630Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:49.144Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:49.649Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:50.158Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:50.667Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:51.182Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:51.695Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:52.211Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:52.739Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:53.249Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:53.766Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:54.285Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:54.799Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:55.315Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:55.824Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:56.332Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:56.841Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:57.353Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:57.872Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:58.382Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:58.896Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:59.409Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:54:59.924Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:00.430Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:00.942Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:01.453Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:01.975Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:02.489Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:03.006Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:03.522Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:04.032Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:04.549Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:05.064Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:05.580Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:06.092Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:06.611Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:07.128Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:07.638Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:08.147Z] : Vehicle ch_agv_2 at LM6, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:08.660Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:09.177Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:09.687Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:10.204Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:10.721Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:11.231Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:11.737Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:12.248Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:12.755Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:13.264Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:13.771Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:14.274Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:14.778Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:15.295Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:15.809Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:16.312Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:16.818Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:17.324Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:55:17.835Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:55:18.340Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:55:18.854Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:55:19.366Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:55:19.878Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:55:20.384Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:55:20.900Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:55:21.408Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 4
+[info] [2021-12-01T08:55:21.919Z] : Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 4
+[info] [2021-12-01T08:55:21.920Z] : The current transport order has been finished.
+[info] [2021-12-01T08:55:21.921Z] : There are no transport order available.
+[info] [2021-12-01T08:55:21.922Z] : Parking position is PP2 for Vehicle ch_agv_2
+[info] [2021-12-01T08:55:21.922Z] : neworder : {"category":"Park","intendedVehicle":"ch_agv_2","destinations":[{"locationName":"PP2","operation":"park"}]}
+[info] [2021-12-01T08:55:21.935Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:21.935Z] : There is a new transport order.
+[info] [2021-12-01T08:55:21.936Z] : The new transport order is Park-1638348921922
+[info] [2021-12-01T08:55:21.937Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:21.938Z] : Start to process Park-1638348921922
+[info] [2021-12-01T08:55:21.939Z] : The sequence of destinations to visit are AP7,LM4,LM8,LM3,PP2
+[info] [2021-12-01T08:55:21.946Z] : Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 0
+[info] [2021-12-01T08:55:21.949Z] : Assigning to Vehicle source_id: AP7 id: LM4 valid: true parking_mark: false task_id: 1638348921939
+[info] [2021-12-01T08:55:22.465Z] : Vehicle ch_agv_2 at AP7, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T08:55:22.960Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:22.981Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:23.495Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:24.011Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:24.518Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:25.035Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:25.544Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:26.053Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:26.569Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:27.072Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:27.578Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:28.092Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:28.594Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:29.101Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:29.620Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:30.138Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:30.652Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:31.168Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:31.686Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:32.197Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:32.704Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:33.207Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:33.720Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:34.231Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:34.736Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:35.247Z] : Vehicle ch_agv_2 at AP7, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:35.750Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:35.756Z] : Assigning to Vehicle source_id: LM4 id: LM8 valid: true parking_mark: false task_id: 1638348921939
+[info] [2021-12-01T08:55:36.268Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:36.769Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:37.275Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:37.784Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:38.287Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:38.799Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:39.305Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:39.811Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:40.325Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:40.838Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:41.357Z] : Vehicle ch_agv_2 at null, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:41.875Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:42.389Z] : Vehicle ch_agv_2 at LM4, vehicle status is 2; system intentStatus is 2
+[info] [2021-12-01T08:55:42.473Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T08:55:42.476Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:42.476Z] : There is a new transport order.
+[info] [2021-12-01T08:55:42.477Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:42.477Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:42.477Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:42.478Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:42.479Z] : The vehicle that could process the transport order is [object Object]
+[info] [2021-12-01T08:55:43.496Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:43.497Z] : There is a new transport order.
+[info] [2021-12-01T08:55:43.498Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:43.499Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:43.499Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:43.501Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:43.502Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:44.508Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:44.509Z] : There is a new transport order.
+[info] [2021-12-01T08:55:44.509Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:44.509Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:44.510Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:44.510Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:44.511Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:45.532Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:45.532Z] : There is a new transport order.
+[info] [2021-12-01T08:55:45.533Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:45.533Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:45.533Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:45.535Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:45.536Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:46.551Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:46.553Z] : There is a new transport order.
+[info] [2021-12-01T08:55:46.554Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:46.555Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:46.556Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:46.559Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:46.563Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:47.572Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:47.573Z] : There is a new transport order.
+[info] [2021-12-01T08:55:47.574Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:47.574Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:47.575Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:47.576Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:47.578Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:48.581Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:48.582Z] : There is a new transport order.
+[info] [2021-12-01T08:55:48.582Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:48.583Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:48.583Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:48.584Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:48.585Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:49.593Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:49.595Z] : There is a new transport order.
+[info] [2021-12-01T08:55:49.597Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:49.598Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:49.599Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:49.602Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:49.604Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:50.619Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:50.620Z] : There is a new transport order.
+[info] [2021-12-01T08:55:50.620Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:50.621Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:50.621Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:50.622Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:50.622Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:51.627Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:51.629Z] : There is a new transport order.
+[info] [2021-12-01T08:55:51.631Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:51.632Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:51.633Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:51.635Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:51.637Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:52.650Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:52.651Z] : There is a new transport order.
+[info] [2021-12-01T08:55:52.652Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:52.652Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:52.653Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:52.654Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:52.656Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:53.662Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:53.663Z] : There is a new transport order.
+[info] [2021-12-01T08:55:53.663Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:53.663Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:53.664Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:53.666Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:53.668Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:54.672Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:54.673Z] : There is a new transport order.
+[info] [2021-12-01T08:55:54.674Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:54.674Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:54.675Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:54.675Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:54.676Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:55.685Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:55.687Z] : There is a new transport order.
+[info] [2021-12-01T08:55:55.688Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:55.689Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:55.690Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:55.693Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:55.697Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:56.707Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:56.708Z] : There is a new transport order.
+[info] [2021-12-01T08:55:56.708Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:56.709Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:56.709Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:56.711Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:56.712Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:57.718Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:57.719Z] : There is a new transport order.
+[info] [2021-12-01T08:55:57.719Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:57.720Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:57.720Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:57.721Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:57.722Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:58.736Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:58.736Z] : There is a new transport order.
+[info] [2021-12-01T08:55:58.737Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:58.737Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:58.737Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:58.738Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:58.739Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:59.742Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:55:59.743Z] : There is a new transport order.
+[info] [2021-12-01T08:55:59.744Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:55:59.744Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:55:59.744Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:55:59.745Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:55:59.746Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:00.753Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:56:00.754Z] : There is a new transport order.
+[info] [2021-12-01T08:56:00.755Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:56:00.755Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:56:00.756Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:56:00.756Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:00.757Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:01.766Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:56:01.767Z] : There is a new transport order.
+[info] [2021-12-01T08:56:01.767Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:56:01.767Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:56:01.768Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:56:01.768Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:01.769Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:02.776Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:56:02.777Z] : There is a new transport order.
+[info] [2021-12-01T08:56:02.779Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:56:02.780Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:56:02.781Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:56:02.783Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:02.786Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:03.796Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:56:03.797Z] : There is a new transport order.
+[info] [2021-12-01T08:56:03.798Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:56:03.798Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:56:03.798Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:56:03.799Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:03.800Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:04.815Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:56:04.816Z] : There is a new transport order.
+[info] [2021-12-01T08:56:04.816Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:56:04.817Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:56:04.817Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:56:04.819Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:04.820Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:05.833Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:56:05.835Z] : There is a new transport order.
+[info] [2021-12-01T08:56:05.836Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:56:05.836Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:56:05.837Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:56:05.839Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:05.841Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:06.849Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:56:06.850Z] : There is a new transport order.
+[info] [2021-12-01T08:56:06.851Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:56:06.851Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:56:06.851Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:56:06.852Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:06.853Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:07.863Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:56:07.865Z] : There is a new transport order.
+[info] [2021-12-01T08:56:07.867Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:56:07.868Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:56:07.870Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:56:07.872Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:07.875Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:08.882Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:56:08.884Z] : There is a new transport order.
+[info] [2021-12-01T08:56:08.885Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:56:08.886Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:56:08.887Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:56:08.890Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:08.893Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:09.896Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:56:09.896Z] : There is a new transport order.
+[info] [2021-12-01T08:56:09.897Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:56:09.898Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:56:09.899Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:56:09.899Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:09.900Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:10.900Z] : Check new transport orders periodically.
+[info] [2021-12-01T08:56:10.902Z] : There is a new transport order.
+[info] [2021-12-01T08:56:10.902Z] : The new transport order is TOrder-02
+[info] [2021-12-01T08:56:10.903Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T08:56:10.904Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T08:56:10.905Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T08:56:10.907Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:37.572Z] : Service start.
+[warn] [2021-12-01T09:05:37.580Z] : Service start warn.
+[error] [2021-12-01T09:05:37.581Z] : Service start error.
+[info] [2021-12-01T09:05:38.645Z] : Check new transport orders periodically.
+[info] [2021-12-01T09:05:38.646Z] : There is a new transport order.
+[info] [2021-12-01T09:05:38.646Z] : The new transport order is TOrder-02
+[info] [2021-12-01T09:05:38.647Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T09:05:38.648Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T09:05:38.648Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:38.649Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:39.649Z] : Check new transport orders periodically.
+[info] [2021-12-01T09:05:39.650Z] : There is a new transport order.
+[info] [2021-12-01T09:05:39.650Z] : The new transport order is TOrder-02
+[info] [2021-12-01T09:05:39.650Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T09:05:39.651Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T09:05:39.651Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:39.652Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:40.661Z] : Check new transport orders periodically.
+[info] [2021-12-01T09:05:40.662Z] : There is a new transport order.
+[info] [2021-12-01T09:05:40.663Z] : The new transport order is TOrder-02
+[info] [2021-12-01T09:05:40.664Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T09:05:40.664Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T09:05:40.665Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:40.667Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:41.692Z] : Check new transport orders periodically.
+[info] [2021-12-01T09:05:41.693Z] : There is a new transport order.
+[info] [2021-12-01T09:05:41.694Z] : The new transport order is TOrder-02
+[info] [2021-12-01T09:05:41.694Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T09:05:41.694Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T09:05:41.695Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:41.697Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:42.702Z] : Check new transport orders periodically.
+[info] [2021-12-01T09:05:42.703Z] : There is a new transport order.
+[info] [2021-12-01T09:05:42.704Z] : The new transport order is TOrder-02
+[info] [2021-12-01T09:05:42.704Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T09:05:42.705Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T09:05:42.706Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:42.707Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:43.713Z] : Check new transport orders periodically.
+[info] [2021-12-01T09:05:43.716Z] : There is a new transport order.
+[info] [2021-12-01T09:05:43.717Z] : The new transport order is TOrder-02
+[info] [2021-12-01T09:05:43.717Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T09:05:43.718Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T09:05:43.719Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:43.723Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:44.736Z] : Check new transport orders periodically.
+[info] [2021-12-01T09:05:44.737Z] : There is a new transport order.
+[info] [2021-12-01T09:05:44.746Z] : The new transport order is TOrder-02
+[info] [2021-12-01T09:05:44.756Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T09:05:44.758Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T09:05:44.761Z] : The idle vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:44.763Z] : The vehicle that could process the transport order is null
+[info] [2021-12-01T09:05:45.771Z] : Check new transport orders periodically.
+[info] [2021-12-01T09:15:15.615Z] : neworder : {"deadline":"2021-11-180T17:42:40.396Z","category":"Normal","wrappingSequence":"Sequence-01","destinations":[{"locationName":"AP5","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]},{"locationName":"AP7","operation":[{"action":"sound","param":{"name":"123.mp3","loop":1}}]}]}
+[info] [2021-12-01T09:15:15.618Z] : Check new transport orders periodically.
+[info] [2021-12-01T09:15:15.619Z] : There is a new transport order.
+[info] [2021-12-01T09:15:15.619Z] : The new transport order is TOrder-01
+[info] [2021-12-01T09:15:15.619Z] : Starting to dispatch vehicles.
+[info] [2021-12-01T09:15:15.620Z] : Check if there are any idle vehicles that could process the transport order.
+[info] [2021-12-01T09:15:15.623Z] : The idle vehicle that could process the transport order is [object Object]
+[info] [2021-12-01T09:15:15.623Z] : Start to process TOrder-01
+[info] [2021-12-01T09:15:15.624Z] : The sequence of destinations to visit are LM4,AP5
+[info] [2021-12-01T09:15:15.624Z] : The sequence of destinations to visit are AP5,LM6,AP7
+[info] [2021-12-01T09:15:15.627Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 0
+[info] [2021-12-01T09:15:15.631Z] : Assigning to Vehicle source_id: LM4 id: AP5 valid: true parking_mark: false task_id: 1638350115624
+[info] [2021-12-01T09:15:16.147Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:16.646Z] : Check new transport orders periodically.
+[info] [2021-12-01T09:15:16.663Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:17.168Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:17.683Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:18.199Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:18.708Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:19.215Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:19.724Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:20.229Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:20.737Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:21.246Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:21.756Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:22.273Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:22.790Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:23.303Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:23.809Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:24.323Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:24.824Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:25.326Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:25.834Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:26.341Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:26.843Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:27.347Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:27.850Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:28.355Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:28.858Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:29.366Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:29.882Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:30.392Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:30.902Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:31.418Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:31.922Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:32.425Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:32.940Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:33.443Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:33.949Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:34.463Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:34.968Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:35.483Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:35.985Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:36.491Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:36.997Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:37.506Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:38.017Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:38.529Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:39.031Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:39.546Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:40.053Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:40.570Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:41.082Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:41.586Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:42.095Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:42.605Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:43.123Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:43.628Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:44.132Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:44.633Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:45.143Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:45.648Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:46.156Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:46.657Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:47.163Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:47.669Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:48.177Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:48.690Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:49.196Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:49.698Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:50.213Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:50.725Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:51.234Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:51.735Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:52.250Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:52.766Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:53.279Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:53.794Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:54.309Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:54.819Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:55.325Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:55.835Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:56.341Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:15:56.856Z] : Vehicle ch_agv_2 at LM4, vehicle status is 0; system intentStatus is 2
+[info] [2021-12-01T09:16:02.403Z] : Service start.
+[warn] [2021-12-01T09:16:02.405Z] : Service start warn.
+[error] [2021-12-01T09:16:02.405Z] : Service start error.
+[info] [2021-12-01T09:16:03.429Z] : Check new transport orders periodically.

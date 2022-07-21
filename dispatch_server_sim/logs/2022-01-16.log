@@ -1,0 +1,248 @@
+[info] [2022-01-16T01:33:50.573Z] : Service start.
+[warn] [2022-01-16T01:33:50.575Z] : Service start warn.
+[error] [2022-01-16T01:33:50.576Z] : Service start error.
+[info] [2022-01-16T11:34:42.269Z] : Service start.
+[warn] [2022-01-16T11:34:42.270Z] : Service start warn.
+[error] [2022-01-16T11:34:42.271Z] : Service start error.
+[info] [2022-01-16T11:39:09.676Z] : Service start.
+[warn] [2022-01-16T11:39:09.677Z] : Service start warn.
+[error] [2022-01-16T11:39:09.677Z] : Service start error.
+[info] [2022-01-16T11:41:04.431Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T11:41:04.439Z] : releaseParkPoint PP8
+[info] [2022-01-16T11:42:08.069Z] : PP8 is false
+[info] [2022-01-16T11:42:08.069Z] : PP9 is false
+[info] [2022-01-16T11:42:08.071Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T11:42:08.084Z] : requestParkPoint PP9
+[info] [2022-01-16T11:50:01.745Z] : Service start.
+[warn] [2022-01-16T11:50:01.747Z] : Service start warn.
+[error] [2022-01-16T11:50:01.747Z] : Service start error.
+[info] [2022-01-16T11:50:37.346Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T11:50:37.357Z] : releaseParkPoint PP9
+[info] [2022-01-16T11:51:48.108Z] : PP8 is false
+[info] [2022-01-16T11:51:48.109Z] : PP9 is false
+[info] [2022-01-16T11:51:48.109Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T11:51:48.118Z] : requestParkPoint PP9
+[info] [2022-01-16T11:53:18.719Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T11:53:18.727Z] : releaseParkPoint PP8
+[info] [2022-01-16T11:54:22.412Z] : PP8 is false
+[info] [2022-01-16T11:54:22.413Z] : PP9 is true
+[info] [2022-01-16T11:54:22.414Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP8","operation":"park"}]}
+[info] [2022-01-16T11:54:22.420Z] : requestParkPoint PP8
+[info] [2022-01-16T11:55:20.507Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T11:55:20.513Z] : releaseParkPoint PP8
+[info] [2022-01-16T11:56:23.309Z] : PP8 is false
+[info] [2022-01-16T11:56:23.309Z] : PP9 is true
+[info] [2022-01-16T11:56:23.310Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP8","operation":"park"}]}
+[info] [2022-01-16T11:56:23.316Z] : requestParkPoint PP8
+[info] [2022-01-16T11:58:53.153Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T11:58:53.157Z] : releaseParkPoint PP8
+[info] [2022-01-16T11:59:56.194Z] : PP8 is false
+[info] [2022-01-16T11:59:56.195Z] : PP9 is true
+[info] [2022-01-16T11:59:56.195Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP8","operation":"park"}]}
+[info] [2022-01-16T11:59:56.200Z] : requestParkPoint PP8
+[info] [2022-01-16T12:04:10.879Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:04:10.885Z] : releaseParkPoint PP8
+[info] [2022-01-16T12:05:14.324Z] : PP8 is false
+[info] [2022-01-16T12:05:14.324Z] : PP9 is true
+[info] [2022-01-16T12:05:14.325Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP8","operation":"park"}]}
+[info] [2022-01-16T12:05:14.331Z] : requestParkPoint PP8
+[info] [2022-01-16T12:06:55.507Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:06:55.512Z] : releaseParkPoint PP8
+[info] [2022-01-16T12:07:58.533Z] : PP8 is false
+[info] [2022-01-16T12:07:58.535Z] : PP9 is true
+[info] [2022-01-16T12:07:58.537Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP8","operation":"park"}]}
+[info] [2022-01-16T12:07:58.563Z] : requestParkPoint PP8
+[info] [2022-01-16T12:09:00.231Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:09:00.236Z] : releaseParkPoint PP8
+[info] [2022-01-16T12:09:49.312Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:09:49.318Z] : releaseParkPoint PP9
+[info] [2022-01-16T12:10:03.685Z] : PP8 is false
+[info] [2022-01-16T12:10:03.686Z] : PP9 is false
+[info] [2022-01-16T12:10:03.689Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T12:10:03.707Z] : requestParkPoint PP9
+[info] [2022-01-16T12:10:17.511Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:10:17.520Z] : releaseParkPoint PP9
+[info] [2022-01-16T12:21:02.545Z] : Service start.
+[warn] [2022-01-16T12:21:02.546Z] : Service start warn.
+[error] [2022-01-16T12:21:02.547Z] : Service start error.
+[info] [2022-01-16T12:21:48.532Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:21:48.540Z] : releaseParkPoint PP8
+[info] [2022-01-16T12:22:51.664Z] : PP8 is false
+[info] [2022-01-16T12:22:51.666Z] : PP9 is false
+[info] [2022-01-16T12:22:51.668Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T12:22:51.690Z] : requestParkPoint PP9
+[info] [2022-01-16T12:23:03.865Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:23:03.876Z] : releaseParkPoint PP9
+[info] [2022-01-16T12:23:52.001Z] : PP8 is false
+[info] [2022-01-16T12:23:52.002Z] : PP9 is false
+[info] [2022-01-16T12:23:52.005Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T12:23:52.024Z] : requestParkPoint PP9
+[info] [2022-01-16T12:24:18.111Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:24:18.117Z] : releaseParkPoint PP8
+[info] [2022-01-16T12:25:14.695Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:25:14.701Z] : releaseParkPoint PP9
+[info] [2022-01-16T12:25:21.086Z] : PP8 is false
+[info] [2022-01-16T12:25:21.087Z] : PP9 is false
+[info] [2022-01-16T12:25:21.088Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T12:25:21.100Z] : requestParkPoint PP9
+[info] [2022-01-16T12:25:44.923Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:25:44.931Z] : releaseParkPoint PP9
+[info] [2022-01-16T12:26:36.619Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:26:39.134Z] : PP8 is false
+[info] [2022-01-16T12:26:39.135Z] : PP9 is false
+[info] [2022-01-16T12:26:39.136Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T12:26:39.147Z] : requestParkPoint PP9
+[info] [2022-01-16T12:27:07.741Z] : PP8 is false
+[info] [2022-01-16T12:27:07.742Z] : PP9 is true
+[info] [2022-01-16T12:27:07.745Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP8","operation":"park"}]}
+[info] [2022-01-16T12:27:07.768Z] : requestParkPoint PP8
+[info] [2022-01-16T12:27:14.335Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:27:14.341Z] : releaseParkPoint PP9
+[info] [2022-01-16T12:27:36.806Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:27:36.814Z] : releaseParkPoint PP8
+[info] [2022-01-16T12:27:37.827Z] : releaseParkPoint PP8
+[info] [2022-01-16T12:27:50.403Z] : PP8 is false
+[info] [2022-01-16T12:27:50.404Z] : PP9 is false
+[info] [2022-01-16T12:27:50.406Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T12:27:50.421Z] : requestParkPoint PP9
+[info] [2022-01-16T12:42:07.609Z] : Service start.
+[warn] [2022-01-16T12:42:07.610Z] : Service start warn.
+[error] [2022-01-16T12:42:07.610Z] : Service start error.
+[info] [2022-01-16T12:42:37.377Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:42:37.386Z] : releaseParkPoint PP8
+[info] [2022-01-16T12:43:39.263Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:43:39.271Z] : releaseParkPoint PP8
+[info] [2022-01-16T12:43:40.348Z] : PP8 is false
+[info] [2022-01-16T12:43:40.349Z] : PP9 is false
+[info] [2022-01-16T12:43:40.349Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T12:43:40.355Z] : requestParkPoint PP9
+[info] [2022-01-16T12:44:39.308Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:44:39.317Z] : releaseParkPoint PP9
+[info] [2022-01-16T12:44:42.763Z] : PP8 is false
+[info] [2022-01-16T12:44:42.764Z] : PP9 is false
+[info] [2022-01-16T12:44:42.764Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T12:44:42.769Z] : requestParkPoint PP9
+[info] [2022-01-16T12:44:50.470Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:44:50.481Z] : releaseParkPoint PP9
+[info] [2022-01-16T12:45:49.484Z] : PP8 is false
+[info] [2022-01-16T12:45:49.484Z] : PP9 is false
+[info] [2022-01-16T12:45:49.485Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T12:45:49.491Z] : requestParkPoint PP9
+[info] [2022-01-16T12:46:00.109Z] : PP8 is false
+[info] [2022-01-16T12:46:00.110Z] : PP9 is true
+[info] [2022-01-16T12:46:00.111Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP8","operation":"park"}]}
+[info] [2022-01-16T12:46:00.116Z] : requestParkPoint PP8
+[info] [2022-01-16T12:54:45.786Z] : Service start.
+[warn] [2022-01-16T12:54:45.788Z] : Service start warn.
+[error] [2022-01-16T12:54:45.788Z] : Service start error.
+[info] [2022-01-16T12:55:10.018Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:55:10.026Z] : releaseParkPoint PP8
+[info] [2022-01-16T12:56:02.937Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:56:02.943Z] : releaseParkPoint PP8
+[info] [2022-01-16T12:56:13.598Z] : PP8 is false
+[info] [2022-01-16T12:56:13.599Z] : PP9 is false
+[info] [2022-01-16T12:56:13.599Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T12:56:13.606Z] : requestParkPoint PP9
+[info] [2022-01-16T12:56:21.563Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:56:56.331Z] : releaseParkPoint PP9
+[info] [2022-01-16T12:56:56.813Z] : releaseParkPoint PP9
+[info] [2022-01-16T12:57:05.962Z] : PP8 is false
+[info] [2022-01-16T12:57:05.963Z] : PP9 is false
+[info] [2022-01-16T12:57:05.963Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T12:57:05.969Z] : requestParkPoint PP9
+[info] [2022-01-16T12:57:11.282Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:58:11.831Z] : Service start.
+[warn] [2022-01-16T12:58:11.832Z] : Service start warn.
+[error] [2022-01-16T12:58:11.833Z] : Service start error.
+[info] [2022-01-16T12:58:40.697Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T12:58:40.704Z] : releaseParkPoint PP8
+[info] [2022-01-16T12:59:43.636Z] : PP8 is false
+[info] [2022-01-16T12:59:43.638Z] : PP9 is false
+[info] [2022-01-16T12:59:43.640Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T12:59:43.661Z] : requestParkPoint PP9
+[info] [2022-01-16T12:59:47.982Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:00:25.800Z] : releaseParkPoint PP9
+[info] [2022-01-16T13:00:26.281Z] : releaseParkPoint PP9
+[info] [2022-01-16T13:01:02.494Z] : PP8 is false
+[info] [2022-01-16T13:01:02.496Z] : PP9 is false
+[info] [2022-01-16T13:01:02.499Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T13:01:02.518Z] : requestParkPoint PP9
+[info] [2022-01-16T13:01:17.994Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:01:24.441Z] : releaseParkPoint PP9
+[info] [2022-01-16T13:01:25.067Z] : releaseParkPoint PP9
+[info] [2022-01-16T13:03:06.966Z] : Service start.
+[warn] [2022-01-16T13:03:06.967Z] : Service start warn.
+[error] [2022-01-16T13:03:06.968Z] : Service start error.
+[info] [2022-01-16T13:03:39.852Z] : Service start.
+[warn] [2022-01-16T13:03:39.854Z] : Service start warn.
+[error] [2022-01-16T13:03:39.854Z] : Service start error.
+[info] [2022-01-16T13:04:08.530Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:04:08.539Z] : releaseParkPoint PP8
+[info] [2022-01-16T13:05:11.951Z] : PP8 is false
+[info] [2022-01-16T13:05:11.952Z] : PP9 is false
+[info] [2022-01-16T13:05:11.954Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T13:05:11.974Z] : requestParkPoint PP9
+[info] [2022-01-16T13:05:16.788Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:05:28.728Z] : releaseParkPoint PP9
+[info] [2022-01-16T13:06:02.246Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:06:02.252Z] : releaseParkPoint PP8
+[info] [2022-01-16T13:06:08.058Z] : PP8 is false
+[info] [2022-01-16T13:06:08.058Z] : PP9 is false
+[info] [2022-01-16T13:06:08.059Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T13:06:08.065Z] : requestParkPoint PP9
+[info] [2022-01-16T13:06:19.614Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:06:25.346Z] : releaseParkPoint PP9
+[info] [2022-01-16T13:07:05.103Z] : PP8 is false
+[info] [2022-01-16T13:07:05.104Z] : PP9 is false
+[info] [2022-01-16T13:07:05.107Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T13:07:05.117Z] : requestParkPoint PP9
+[info] [2022-01-16T13:09:25.651Z] : Service start.
+[warn] [2022-01-16T13:09:25.652Z] : Service start warn.
+[error] [2022-01-16T13:09:25.652Z] : Service start error.
+[info] [2022-01-16T13:09:51.294Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:09:51.301Z] : releaseParkPoint PP8
+[info] [2022-01-16T13:10:15.219Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:10:15.226Z] : releaseParkPoint PP8
+[info] [2022-01-16T13:10:54.364Z] : PP8 is false
+[info] [2022-01-16T13:10:54.365Z] : PP9 is false
+[info] [2022-01-16T13:10:54.366Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T13:10:54.375Z] : requestParkPoint PP9
+[info] [2022-01-16T13:10:58.668Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:11:11.625Z] : releaseParkPoint PP9
+[info] [2022-01-16T13:11:18.762Z] : PP8 is false
+[info] [2022-01-16T13:11:18.763Z] : PP9 is false
+[info] [2022-01-16T13:11:18.764Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T13:11:18.776Z] : requestParkPoint PP9
+[info] [2022-01-16T13:11:29.163Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:11:43.661Z] : releaseParkPoint PP9
+[info] [2022-01-16T13:11:50.872Z] : PP8 is false
+[info] [2022-01-16T13:11:50.873Z] : PP9 is false
+[info] [2022-01-16T13:11:50.874Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T13:11:50.887Z] : requestParkPoint PP9
+[info] [2022-01-16T13:11:51.995Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:11:58.027Z] : releaseParkPoint PP9
+[info] [2022-01-16T13:12:18.934Z] : PP8 is false
+[info] [2022-01-16T13:12:18.935Z] : PP9 is false
+[info] [2022-01-16T13:12:18.936Z] : neworder : {"category":"Park","intendedVehicle":"chagv_002","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T13:12:18.947Z] : requestParkPoint PP9
+[info] [2022-01-16T13:18:22.821Z] : Service start.
+[warn] [2022-01-16T13:18:22.823Z] : Service start warn.
+[error] [2022-01-16T13:18:22.824Z] : Service start error.
+[info] [2022-01-16T13:18:39.249Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:18:39.258Z] : releaseParkPoint PP8
+[info] [2022-01-16T13:19:43.009Z] : PP8 is false
+[info] [2022-01-16T13:19:43.011Z] : PP9 is false
+[info] [2022-01-16T13:19:43.013Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T13:19:43.023Z] : requestParkPoint PP9
+[info] [2022-01-16T13:20:45.193Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:20:45.202Z] : releaseParkPoint PP9
+[info] [2022-01-16T13:21:55.227Z] : PP8 is false
+[info] [2022-01-16T13:21:55.228Z] : PP9 is false
+[info] [2022-01-16T13:21:55.231Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T13:21:55.250Z] : requestParkPoint PP9
+[info] [2022-01-16T13:22:47.389Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":[{"action":"SetDO","param":{"DO":[{"id":5,"status":"true"}]}},{"action":"WaitDI","param":{"DI":[{"id":16,"status":"false"}]}},{"action":"SetDO","param":{"DO":[{"id":5,"status":"false"}]}}]},{"locationName":"AP3","operation":[{"action":"SetDO","param":{"DO":[{"id":6,"status":"true"}]}},{"action":"WaitTime","param":{"wait":3}},{"action":"SetDO","param":{"DO":[{"id":6,"status":"false"}]}}]}]}
+[info] [2022-01-16T13:22:47.396Z] : releaseParkPoint PP9
+[info] [2022-01-16T13:23:58.204Z] : PP8 is false
+[info] [2022-01-16T13:23:58.206Z] : PP9 is false
+[info] [2022-01-16T13:23:58.208Z] : neworder : {"category":"Park","intendedVehicle":"chagv_001","destinations":[{"locationName":"PP9","operation":"park"}]}
+[info] [2022-01-16T13:23:58.230Z] : requestParkPoint PP9

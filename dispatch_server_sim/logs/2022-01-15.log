@@ -1,0 +1,6 @@
+[info] [2022-01-15T11:33:32.471Z] : Service start.
+[warn] [2022-01-15T11:33:32.473Z] : Service start warn.
+[error] [2022-01-15T11:33:32.473Z] : Service start error.
+[info] [2022-01-15T15:23:42.313Z] : Service start.
+[warn] [2022-01-15T15:23:42.314Z] : Service start warn.
+[error] [2022-01-15T15:23:42.314Z] : Service start error.

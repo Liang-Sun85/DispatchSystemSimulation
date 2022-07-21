@@ -1,0 +1,6 @@
+[info] [2021-12-28T11:39:54.996Z] : Service start.
+[warn] [2021-12-28T11:39:54.999Z] : Service start warn.
+[error] [2021-12-28T11:39:55.000Z] : Service start error.
+[info] [2021-12-28T12:11:12.138Z] : Service start.
+[warn] [2021-12-28T12:11:12.145Z] : Service start warn.
+[error] [2021-12-28T12:11:12.146Z] : Service start error.

@@ -1,0 +1,18 @@
+[info] [2021-12-16T08:09:55.103Z] : Service start.
+[warn] [2021-12-16T08:09:55.106Z] : Service start warn.
+[error] [2021-12-16T08:09:55.106Z] : Service start error.
+[info] [2021-12-16T08:17:30.100Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-16T08:19:38.746Z] : Service start.
+[warn] [2021-12-16T08:19:38.752Z] : Service start warn.
+[error] [2021-12-16T08:19:38.753Z] : Service start error.
+[info] [2021-12-16T08:22:34.521Z] : Service start.
+[warn] [2021-12-16T08:22:34.524Z] : Service start warn.
+[error] [2021-12-16T08:22:34.525Z] : Service start error.
+[info] [2021-12-16T08:31:55.395Z] : Service start.
+[warn] [2021-12-16T08:31:55.401Z] : Service start warn.
+[error] [2021-12-16T08:31:55.403Z] : Service start error.
+[info] [2021-12-16T08:32:04.907Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-16T08:33:26.303Z] : neworder : {"category":"Park","intendedVehicle":"ch_agv_1","destinations":[{"locationName":"PP6","operation":"park"}]}
+[info] [2021-12-16T08:34:48.702Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-16T08:36:10.612Z] : neworder : {"category":"Park","intendedVehicle":"ch_agv_1","destinations":[{"locationName":"PP6","operation":"park"}]}
+[info] [2021-12-16T08:36:30.256Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}

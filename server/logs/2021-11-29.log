@@ -1,0 +1,64 @@
+{"level":"info","message":"Service start.","timestamp":"2021-11-29 17:56:20"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:56:20"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-29 17:56:21"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:56:26"}
+{"level":"info","message":"Check new orders periodically.","timestamp":"2021-11-29 17:56:29"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: TOrder-02","timestamp":"2021-11-29 17:56:29"}
+{"level":"info","message":"Starting to dispatch vehicles...","timestamp":"2021-11-29 17:56:29"}
+{"level":"info","message":"Check if there are any idle vehicles that could process a transport order...","timestamp":"2021-11-29 17:56:29"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:56:31"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:56:34"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:56:41"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:56:44"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:56:46"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:56:49"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:56:51"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:56:54"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:56:55"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:56:59"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:57:01"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:57:04"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:57:06"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:57:09"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:57:16"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:57:19"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:57:21"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:57:24"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:57:26"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:57:29"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:57:31"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:57:34"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:57:41"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:57:44"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:57:47"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:57:50"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:57:51"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:57:54"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:57:56"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:57:59"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:58:01"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:58:04"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:58:07"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:58:10"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:58:16"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:58:19"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:58:21"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:58:24"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:58:31"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:58:34"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:58:36"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:58:39"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:58:41"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:58:44"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:58:46"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:58:49"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:58:58"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:59:01"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:59:06"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:59:09"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:59:11"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:59:14"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:59:16"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:59:19"}
+{"level":"info","message":"TCP connecting...","timestamp":"2021-11-29 17:59:26"}
+{"level":"info","message":"TCP disconnecting...","timestamp":"2021-11-29 17:59:29"}

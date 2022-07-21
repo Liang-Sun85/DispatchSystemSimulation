@@ -1,0 +1,22 @@
+[info] [2021-12-13T08:51:16.324Z] : Service start.
+[warn] [2021-12-13T08:51:16.330Z] : Service start warn.
+[error] [2021-12-13T08:51:16.332Z] : Service start error.
+[info] [2021-12-13T08:51:17.387Z] : Check new transport orders periodically.
+[info] [2021-12-13T09:00:33.532Z] : Service start.
+[warn] [2021-12-13T09:00:33.538Z] : Service start warn.
+[error] [2021-12-13T09:00:33.539Z] : Service start error.
+[info] [2021-12-13T09:00:33.578Z] : Initializing smap...
+[info] [2021-12-13T09:00:33.581Z] : [object Map]
+[info] [2021-12-13T09:00:33.581Z] : [object Map]
+[info] [2021-12-13T09:00:34.587Z] : Check new transport orders periodically.
+[info] [2021-12-13T09:06:16.245Z] : Service start.
+[warn] [2021-12-13T09:06:16.252Z] : Service start warn.
+[error] [2021-12-13T09:06:16.253Z] : Service start error.
+[info] [2021-12-13T09:06:16.293Z] : Initializing smap...
+[info] [2021-12-13T09:06:17.294Z] : Check new transport orders periodically.
+[info] [2021-12-13T09:23:57.964Z] : Service start.
+[warn] [2021-12-13T09:23:57.970Z] : Service start warn.
+[error] [2021-12-13T09:23:57.971Z] : Service start error.
+[info] [2021-12-13T09:23:58.042Z] : Initializing smap...
+[info] [2021-12-13T09:23:59.032Z] : Check new transport orders periodically...
+[info] [2021-12-13T09:23:59.033Z] : Check transport order to dispatchable: 

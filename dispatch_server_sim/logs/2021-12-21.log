@@ -1,0 +1,40 @@
+[info] [2021-12-21T06:26:40.805Z] : Service start.
+[warn] [2021-12-21T06:26:40.812Z] : Service start warn.
+[error] [2021-12-21T06:26:40.813Z] : Service start error.
+[info] [2021-12-21T06:32:42.424Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T06:35:27.476Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T06:40:24.262Z] : Service start.
+[warn] [2021-12-21T06:40:24.264Z] : Service start warn.
+[error] [2021-12-21T06:40:24.264Z] : Service start error.
+[info] [2021-12-21T06:41:11.192Z] : Service start.
+[warn] [2021-12-21T06:41:11.199Z] : Service start warn.
+[error] [2021-12-21T06:41:11.200Z] : Service start error.
+[info] [2021-12-21T06:41:21.976Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T06:42:50.849Z] : neworder : {"category":"Park","intendedVehicle":"ch_agv_1","destinations":[{"locationName":"PP6","operation":"park"}]}
+[info] [2021-12-21T06:45:02.025Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T06:46:29.246Z] : neworder : {"category":"Park","intendedVehicle":"ch_agv_1","destinations":[{"locationName":"PP6","operation":"park"}]}
+[info] [2021-12-21T06:48:35.072Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T06:50:03.304Z] : neworder : {"category":"Park","intendedVehicle":"ch_agv_1","destinations":[{"locationName":"PP6","operation":"park"}]}
+[info] [2021-12-21T06:50:47.109Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T07:00:16.118Z] : neworder : {"category":"Park","intendedVehicle":"ch_agv_1","destinations":[{"locationName":"PP6","operation":"park"}]}
+[info] [2021-12-21T07:01:28.814Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T07:03:04.486Z] : neworder : {"category":"Park","intendedVehicle":"ch_agv_1","destinations":[{"locationName":"PP6","operation":"park"}]}
+[info] [2021-12-21T07:03:21.849Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T07:04:28.029Z] : neworder : {"category":"Park","intendedVehicle":"ch_agv_1","destinations":[{"locationName":"PP6","operation":"park"}]}
+[info] [2021-12-21T07:05:24.875Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T07:07:15.564Z] : neworder : {"category":"Park","intendedVehicle":"ch_agv_1","destinations":[{"locationName":"PP6","operation":"park"}]}
+[info] [2021-12-21T07:18:08.481Z] : Service start.
+[warn] [2021-12-21T07:18:08.488Z] : Service start warn.
+[error] [2021-12-21T07:18:08.489Z] : Service start error.
+[info] [2021-12-21T07:21:26.200Z] : Service start.
+[warn] [2021-12-21T07:21:26.206Z] : Service start warn.
+[error] [2021-12-21T07:21:26.208Z] : Service start error.
+[info] [2021-12-21T07:21:38.552Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T07:28:38.491Z] : Service start.
+[warn] [2021-12-21T07:28:38.494Z] : Service start warn.
+[error] [2021-12-21T07:28:38.495Z] : Service start error.
+[info] [2021-12-21T07:28:57.922Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T07:31:45.971Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T07:34:18.003Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T07:37:05.032Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}
+[info] [2021-12-21T07:40:05.070Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP1","operation":"sound"}]}

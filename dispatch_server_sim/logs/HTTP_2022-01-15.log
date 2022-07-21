@@ -1,0 +1,456 @@
+::1 - - [15/Jan/2022:11:33:56 +0000] "GET / HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:33:56 +0000] "GET /loginPage HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:33:56 +0000] "GET /css/app.9675e101.css HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:33:56 +0000] "GET /js/app.b60bea03.js HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:33:56 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 200 214577 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:33:56 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 200 1057081 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:33:56 +0000] "GET /api/route/utils/wshost HTTP/1.1" 200 22 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:33:56 +0000] "GET /favicon.ico HTTP/1.1" 302 32 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:33:56 +0000] "GET /loginPage HTTP/1.1" 404 34 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:33:58 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 200 28200 "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:33:58 +0000] "POST /api/route/users/login HTTP/1.1" 200 35 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:34:01 +0000] "GET /api/route/maps/current HTTP/1.1" 200 4498 "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:34:20 +0000] "GET /api/route/maps/current/filename HTTP/1.1" 200 9 "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:34:20 +0000] "GET /api/route/maps HTTP/1.1" 200 220 "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:34:28 +0000] "POST /api/route/maps/test HTTP/1.1" 200 2 "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:34:30 +0000] "GET /api/route/maps/current/filename HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:34:30 +0000] "GET /api/route/maps HTTP/1.1" 200 433 "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:34:32 +0000] "PUT /api/route/maps/current HTTP/1.1" 200 2 "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:34:32 +0000] "GET /api/route/maps/current/filename HTTP/1.1" 200 27 "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:34:32 +0000] "GET /api/route/maps/current HTTP/1.1" 200 3152 "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:34:32 +0000] "GET /api/route/maps HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:23 +0000] "GET /map HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:23 +0000] "GET /loginPage HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:23 +0000] "GET /css/app.158ca220.css HTTP/1.1" 200 5093 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:23 +0000] "GET /js/app.2bc61f4d.js HTTP/1.1" 200 44737 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:23 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 200 214577 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:23 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 200 1057081 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:23 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:24 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 200 28200 "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:24 +0000] "POST /api/route/users/login HTTP/1.1" 200 35 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:25 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:39 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:39 +0000] "GET /css/app.158ca220.css HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:39 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:35:39 +0000] "GET /js/app.2bc61f4d.js.map HTTP/1.1" 200 172915 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:36:45 +0000] "GET /map HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:36:45 +0000] "GET /loginPage HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:36:45 +0000] "GET /css/app.f808bc4a.css HTTP/1.1" 200 5093 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:36:45 +0000] "GET /js/app.f9c7f2d2.js HTTP/1.1" 200 44754 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:36:45 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 200 214577 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:36:45 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 200 1057081 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:36:45 +0000] "GET /js/app.f9c7f2d2.js.map HTTP/1.1" 200 172958 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:36:45 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:36:45 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:36:46 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 200 28200 "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:36:46 +0000] "POST /api/route/users/login HTTP/1.1" 200 35 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:36:47 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /map HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /loginPage HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /css/app.f0d6dd9e.css HTTP/1.1" 200 5093 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /js/app.c699689c.js HTTP/1.1" 200 44744 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 200 214577 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 200 1057081 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /js/app.c699689c.js.map HTTP/1.1" 200 172891 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /loginPage HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /css/app.f0d6dd9e.css HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /js/app.c699689c.js HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /js/app.c699689c.js.map HTTP/1.1" 200 172891 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:37 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:38 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 200 28200 "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:38 +0000] "POST /api/route/users/login HTTP/1.1" 200 35 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:40:39 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /map HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /loginPage HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /css/app.449a9ce5.css HTTP/1.1" 200 5093 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /js/app.ca22169c.js HTTP/1.1" 200 44736 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 200 214577 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 200 1057081 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /js/app.ca22169c.js.map HTTP/1.1" 200 172878 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /loginPage HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /css/app.449a9ce5.css HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /js/app.ca22169c.js HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /js/app.ca22169c.js.map HTTP/1.1" 200 172878 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:28 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:29 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 200 28200 "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:29 +0000] "POST /api/route/users/login HTTP/1.1" 200 35 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:43:30 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /map HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /loginPage HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /css/app.89e16fe9.css HTTP/1.1" 200 5209 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /js/app.bd1461a5.js HTTP/1.1" 200 44736 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 200 214577 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 200 1057081 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /js/app.bd1461a5.js.map HTTP/1.1" 200 173006 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /loginPage HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /css/app.89e16fe9.css HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /js/app.bd1461a5.js HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /js/app.bd1461a5.js.map HTTP/1.1" 200 173006 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:30 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:31 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 200 28200 "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:31 +0000] "POST /api/route/users/login HTTP/1.1" 200 35 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:46:32 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:36 +0000] "GET /map HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:36 +0000] "GET /loginPage HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:36 +0000] "GET /css/app.8c5a616e.css HTTP/1.1" 200 5209 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:36 +0000] "GET /js/app.904cff85.js HTTP/1.1" 200 44618 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:36 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 200 214577 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:36 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 200 1057081 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:36 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:36 +0000] "GET /js/app.904cff85.js.map HTTP/1.1" 200 172672 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:36 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:37 +0000] "GET /loginPage HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:37 +0000] "GET /css/app.8c5a616e.css HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:37 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:37 +0000] "GET /js/app.904cff85.js HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:37 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:37 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:37 +0000] "GET /js/app.904cff85.js.map HTTP/1.1" 200 172672 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:37 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:37 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 200 28200 "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:37 +0000] "POST /api/route/users/login HTTP/1.1" 200 35 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:39 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:54 +0000] "GET /api/route/maps/current/filename HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:47:54 +0000] "GET /api/route/maps HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:48:04 +0000] "GET /api/route/transportOrders?pageNo=1&pageSize=20 HTTP/1.1" 200 5038 "http://localhost:30001/transportOrders" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:48:38 +0000] "GET /api/route/transportOrders?pageNo=1&pageSize=22 HTTP/1.1" 200 5542 "http://localhost:30001/transportOrders" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:48:44 +0000] "GET /api/route/transportOrders?pageNo=1&pageSize=10 HTTP/1.1" 200 2528 "http://localhost:30001/transportOrders" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:11:49:54 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:23 +0000] "GET / HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:23 +0000] "GET /loginPage HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:23 +0000] "GET /css/app.2a35be39.css HTTP/1.1" 200 5209 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:23 +0000] "GET /js/app.7a7ae06e.js HTTP/1.1" 200 44719 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:23 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 200 214577 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:23 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 200 1057081 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:26 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:26 +0000] "GET /favicon.ico HTTP/1.1" 302 32 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:26 +0000] "GET /loginPage HTTP/1.1" 404 34 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:27 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 200 28200 "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:27 +0000] "POST /api/route/users/login HTTP/1.1" 200 35 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:30 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:35 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:35 +0000] "GET /css/app.2a35be39.css HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:35 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:35 +0000] "GET /js/app.7a7ae06e.js.map HTTP/1.1" 200 172865 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /map HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /css/app.2a35be39.css HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /js/app.7a7ae06e.js HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /js/app.7a7ae06e.js.map HTTP/1.1" 200 172865 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 304 - "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /map HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /map HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /css/app.2a35be39.css HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /js/app.7a7ae06e.js HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /css/app.2a35be39.css HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /js/app.7a7ae06e.js HTTP/1.1" 200 44719 "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 200 1057081 "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /js/app.7a7ae06e.js.map HTTP/1.1" 200 172865 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:39 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 304 - "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:40 +0000] "GET /map HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:40 +0000] "GET /css/app.2a35be39.css HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:40 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:40 +0000] "GET /js/app.7a7ae06e.js HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:40 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:40 +0000] "GET /js/app.7a7ae06e.js.map HTTP/1.1" 200 172865 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:40 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:40 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:40 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:24:40 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 304 - "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:25:57 +0000] "GET /map HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:25:57 +0000] "GET /loginPage HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:25:58 +0000] "GET /css/app.2d0e4649.css HTTP/1.1" 200 5209 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:25:58 +0000] "GET /js/app.d2290398.js HTTP/1.1" 200 44750 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:25:58 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 200 214577 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:25:58 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 200 1057081 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:25:58 +0000] "GET /js/app.d2290398.js.map HTTP/1.1" 200 172923 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:25:58 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:25:58 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:25:59 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 200 28200 "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:25:59 +0000] "POST /api/route/users/login HTTP/1.1" 200 35 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:26:01 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:25 +0000] "GET /map HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:25 +0000] "GET /loginPage HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:25 +0000] "GET /css/app.74df4d36.css HTTP/1.1" 200 5209 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:25 +0000] "GET /js/app.2b85a47e.js HTTP/1.1" 200 44914 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:25 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 200 214577 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:25 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 200 1057081 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:25 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:25 +0000] "GET /js/app.2b85a47e.js.map HTTP/1.1" 200 173428 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:26 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:26 +0000] "GET /loginPage HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:26 +0000] "GET /css/app.74df4d36.css HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:26 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:26 +0000] "GET /js/app.2b85a47e.js HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:26 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:26 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:26 +0000] "GET /js/app.2b85a47e.js.map HTTP/1.1" 200 173428 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:26 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:27 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 200 28200 "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:27 +0000] "POST /api/route/users/login HTTP/1.1" 200 35 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:33:28 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:36:11 +0000] "GET /map HTTP/1.1" 302 64 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:36:11 +0000] "GET /loginPage HTTP/1.1" 200 714 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:36:11 +0000] "GET /css/app.74fd2953.css HTTP/1.1" 200 5209 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:36:11 +0000] "GET /js/app.73acd01e.js HTTP/1.1" 200 44916 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:36:11 +0000] "GET /css/chunk-vendors.a16c4353.css HTTP/1.1" 200 214577 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:36:11 +0000] "GET /js/chunk-vendors.14ce27f2.js HTTP/1.1" 200 1057081 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:36:11 +0000] "GET /js/app.73acd01e.js.map HTTP/1.1" 200 173430 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:36:11 +0000] "GET /api/route/utils/wshost HTTP/1.1" 304 - "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:36:11 +0000] "GET /js/chunk-vendors.14ce27f2.js.map HTTP/1.1" 200 4098646 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:36:12 +0000] "GET /fonts/element-icons.535877f5.woff HTTP/1.1" 200 28200 "http://localhost:30001/css/chunk-vendors.a16c4353.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:36:12 +0000] "POST /api/route/users/login HTTP/1.1" 200 35 "http://localhost:30001/loginPage" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+
+::1 - - [15/Jan/2022:15:36:13 +0000] "GET /api/route/maps/current HTTP/1.1" 304 - "http://localhost:30001/map" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36"
+

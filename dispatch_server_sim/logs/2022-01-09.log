@@ -1,0 +1,124 @@
+[info] [2022-01-09T04:11:51.082Z] : Service start.
+[warn] [2022-01-09T04:11:51.083Z] : Service start warn.
+[error] [2022-01-09T04:11:51.083Z] : Service start error.
+[info] [2022-01-09T04:17:28.830Z] : Service start.
+[warn] [2022-01-09T04:17:28.837Z] : Service start warn.
+[error] [2022-01-09T04:17:28.839Z] : Service start error.
+[info] [2022-01-09T04:18:42.949Z] : Service start.
+[warn] [2022-01-09T04:18:42.952Z] : Service start warn.
+[error] [2022-01-09T04:18:42.953Z] : Service start error.
+[info] [2022-01-09T04:20:00.935Z] : Service start.
+[warn] [2022-01-09T04:20:00.938Z] : Service start warn.
+[error] [2022-01-09T04:20:00.938Z] : Service start error.
+[info] [2022-01-09T04:21:47.638Z] : Service start.
+[warn] [2022-01-09T04:21:47.642Z] : Service start warn.
+[error] [2022-01-09T04:21:47.642Z] : Service start error.
+[info] [2022-01-09T04:22:31.690Z] : Service start.
+[warn] [2022-01-09T04:22:31.697Z] : Service start warn.
+[error] [2022-01-09T04:22:31.698Z] : Service start error.
+[info] [2022-01-09T04:24:18.041Z] : Service start.
+[warn] [2022-01-09T04:24:18.045Z] : Service start warn.
+[error] [2022-01-09T04:24:18.046Z] : Service start error.
+[info] [2022-01-09T04:24:52.283Z] : Service start.
+[warn] [2022-01-09T04:24:52.285Z] : Service start warn.
+[error] [2022-01-09T04:24:52.286Z] : Service start error.
+[info] [2022-01-09T04:56:55.642Z] : Service start.
+[warn] [2022-01-09T04:56:55.648Z] : Service start warn.
+[error] [2022-01-09T04:56:55.650Z] : Service start error.
+[info] [2022-01-09T05:11:07.940Z] : Service start.
+[warn] [2022-01-09T05:11:07.942Z] : Service start warn.
+[error] [2022-01-09T05:11:07.942Z] : Service start error.
+[info] [2022-01-09T05:12:32.598Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T05:29:55.781Z] : Service start.
+[warn] [2022-01-09T05:29:55.784Z] : Service start warn.
+[error] [2022-01-09T05:29:55.785Z] : Service start error.
+[info] [2022-01-09T05:30:07.419Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T05:33:07.389Z] : Service start.
+[warn] [2022-01-09T05:33:07.394Z] : Service start warn.
+[error] [2022-01-09T05:33:07.395Z] : Service start error.
+[info] [2022-01-09T05:33:25.944Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T05:36:16.671Z] : Service start.
+[warn] [2022-01-09T05:36:16.678Z] : Service start warn.
+[error] [2022-01-09T05:36:16.679Z] : Service start error.
+[info] [2022-01-09T05:36:21.898Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T05:39:33.467Z] : Service start.
+[warn] [2022-01-09T05:39:33.473Z] : Service start warn.
+[error] [2022-01-09T05:39:33.475Z] : Service start error.
+[info] [2022-01-09T05:39:37.930Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T05:40:42.436Z] : Service start.
+[warn] [2022-01-09T05:40:42.438Z] : Service start warn.
+[error] [2022-01-09T05:40:42.438Z] : Service start error.
+[info] [2022-01-09T05:40:45.777Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T05:43:15.994Z] : Service start.
+[warn] [2022-01-09T05:43:15.997Z] : Service start warn.
+[error] [2022-01-09T05:43:15.998Z] : Service start error.
+[info] [2022-01-09T05:43:18.726Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T05:46:52.605Z] : Service start.
+[warn] [2022-01-09T05:46:52.608Z] : Service start warn.
+[error] [2022-01-09T05:46:52.609Z] : Service start error.
+[info] [2022-01-09T05:47:43.763Z] : Service start.
+[warn] [2022-01-09T05:47:43.765Z] : Service start warn.
+[error] [2022-01-09T05:47:43.766Z] : Service start error.
+[info] [2022-01-09T05:47:49.316Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T05:51:41.361Z] : Service start.
+[warn] [2022-01-09T05:51:41.365Z] : Service start warn.
+[error] [2022-01-09T05:51:41.366Z] : Service start error.
+[info] [2022-01-09T05:52:09.808Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T05:53:28.465Z] : Service start.
+[warn] [2022-01-09T05:53:28.469Z] : Service start warn.
+[error] [2022-01-09T05:53:28.469Z] : Service start error.
+[info] [2022-01-09T05:54:35.303Z] : Service start.
+[warn] [2022-01-09T05:54:35.304Z] : Service start warn.
+[error] [2022-01-09T05:54:35.305Z] : Service start error.
+[info] [2022-01-09T05:54:43.880Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T05:56:04.748Z] : Service start.
+[warn] [2022-01-09T05:56:04.749Z] : Service start warn.
+[error] [2022-01-09T05:56:04.750Z] : Service start error.
+[info] [2022-01-09T05:57:06.247Z] : Service start.
+[warn] [2022-01-09T05:57:06.254Z] : Service start warn.
+[error] [2022-01-09T05:57:06.256Z] : Service start error.
+[info] [2022-01-09T05:57:36.646Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T06:25:25.710Z] : Service start.
+[warn] [2022-01-09T06:25:25.713Z] : Service start warn.
+[error] [2022-01-09T06:25:25.714Z] : Service start error.
+[info] [2022-01-09T06:25:29.366Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T06:26:58.508Z] : Service start.
+[warn] [2022-01-09T06:26:58.515Z] : Service start warn.
+[error] [2022-01-09T06:26:58.516Z] : Service start error.
+[info] [2022-01-09T06:27:02.902Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T06:29:46.812Z] : Service start.
+[warn] [2022-01-09T06:29:46.815Z] : Service start warn.
+[error] [2022-01-09T06:29:46.815Z] : Service start error.
+[info] [2022-01-09T06:30:22.820Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T06:31:47.169Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T06:32:04.860Z] : Service start.
+[warn] [2022-01-09T06:32:04.863Z] : Service start warn.
+[error] [2022-01-09T06:32:04.864Z] : Service start error.
+[info] [2022-01-09T06:34:53.609Z] : Service start.
+[warn] [2022-01-09T06:34:53.611Z] : Service start warn.
+[error] [2022-01-09T06:34:53.612Z] : Service start error.
+[info] [2022-01-09T06:35:02.654Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T07:01:01.316Z] : Service start.
+[warn] [2022-01-09T07:01:01.318Z] : Service start warn.
+[error] [2022-01-09T07:01:01.319Z] : Service start error.
+[info] [2022-01-09T07:01:05.381Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T07:10:58.428Z] : Service start.
+[warn] [2022-01-09T07:10:58.431Z] : Service start warn.
+[error] [2022-01-09T07:10:58.431Z] : Service start error.
+[info] [2022-01-09T07:11:02.616Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T07:35:54.349Z] : Service start.
+[warn] [2022-01-09T07:35:54.353Z] : Service start warn.
+[error] [2022-01-09T07:35:54.354Z] : Service start error.
+[info] [2022-01-09T07:35:57.537Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T07:38:53.196Z] : Service start.
+[warn] [2022-01-09T07:38:53.197Z] : Service start warn.
+[error] [2022-01-09T07:38:53.198Z] : Service start error.
+[info] [2022-01-09T07:39:52.555Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T07:46:32.045Z] : Service start.
+[warn] [2022-01-09T07:46:32.049Z] : Service start warn.
+[error] [2022-01-09T07:46:32.049Z] : Service start error.
+[info] [2022-01-09T07:46:40.300Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}
+[info] [2022-01-09T07:48:19.326Z] : Service start.
+[warn] [2022-01-09T07:48:19.333Z] : Service start warn.
+[error] [2022-01-09T07:48:19.334Z] : Service start error.
+[info] [2022-01-09T07:48:24.753Z] : neworder : {"category":"Normal","destinations":[{"locationName":"AP5","operation":"sound"},{"locationName":"AP7","operation":"sound"}]}

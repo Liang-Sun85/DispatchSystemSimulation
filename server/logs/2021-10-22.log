@@ -1,0 +1,60 @@
+{"level":"info","message":"Service start","timestamp":"2021-10-22 16:34:22"}
+{"level":"info","message":"dispatchableOrders:0","timestamp":"2021-10-22 16:34:23"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 16:34:30"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 16:34:30"}
+{"level":"info","message":"start TOrder-01 process","timestamp":"2021-10-22 16:34:30"}
+{"level":"info","message":"The sequence of destinations to visit are PP2,LM3,LM8,LM4,AP5","timestamp":"2021-10-22 16:34:30"}
+{"level":"info","message":"The sequence of destinations to visit are AP5,LM6,AP7","timestamp":"2021-10-22 16:34:30"}
+{"level":"info","message":{"id":"LM3","parking_mark":false,"source_id":"PP2","valid":true},"timestamp":"2021-10-22 16:34:30"}
+{"level":"info","message":"dispatchableOrders:0","timestamp":"2021-10-22 16:34:31"}
+{"level":"info","message":{"id":"LM8","parking_mark":false,"source_id":"LM3","valid":true},"timestamp":"2021-10-22 16:34:42"}
+{"level":"info","message":{"id":"LM4","parking_mark":false,"source_id":"LM8","valid":true},"timestamp":"2021-10-22 16:34:55"}
+{"level":"info","message":{"id":"AP5","operation":"sound","parking_mark":false,"sound_args":{"loop":1,"name":"navigation"},"source_id":"LM4","valid":true},"timestamp":"2021-10-22 16:34:59"}
+{"level":"info","message":{"id":"LM6","parking_mark":false,"source_id":"AP5","valid":true},"timestamp":"2021-10-22 16:35:16"}
+{"level":"info","message":{"id":"AP7","operation":"sound","parking_mark":true,"sound_args":{"loop":1,"name":"navigation"},"source_id":"LM6","valid":true},"timestamp":"2021-10-22 16:35:25"}
+{"level":"info","message":"The current transport order has been finished.","timestamp":"2021-10-22 16:35:43"}
+{"level":"info","message":"There are no dispatchable order, vehicle is sent to any parking position.","timestamp":"2021-10-22 16:35:43"}
+{"level":"info","message":"The closest unoccupied parking position: PP2","timestamp":"2021-10-22 16:35:43"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 16:35:43"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Park","destinations":[{"locationName":"PP2","operation":"park"}],"intendedVehicle":"ch_agv_1","name":"Park-1634891743772","state":"DISPATCHABLE"},"timestamp":"2021-10-22 16:35:43"}
+{"level":"info","message":"start Park-1634891743772 process","timestamp":"2021-10-22 16:35:43"}
+{"level":"info","message":"The sequence of destinations to visit are AP7,LM4,LM8,LM3,PP2","timestamp":"2021-10-22 16:35:43"}
+{"level":"info","message":{"id":"LM4","parking_mark":false,"source_id":"AP7","valid":true},"timestamp":"2021-10-22 16:35:43"}
+{"level":"info","message":"dispatchableOrders:0","timestamp":"2021-10-22 16:35:44"}
+{"level":"info","message":{"id":"LM8","parking_mark":false,"source_id":"LM4","valid":true},"timestamp":"2021-10-22 16:35:52"}
+{"level":"info","message":{"id":"LM3","parking_mark":false,"source_id":"LM8","valid":true},"timestamp":"2021-10-22 16:35:57"}
+{"level":"info","message":{"id":"PP2","operation":"park","parking_mark":true,"source_id":"LM3","valid":true},"timestamp":"2021-10-22 16:36:02"}
+{"level":"info","message":"The current transport order has been finished.","timestamp":"2021-10-22 16:36:17"}
+{"level":"info","message":"Vehicle at a parking position.","timestamp":"2021-10-22 16:36:17"}
+{"level":"info","message":"Service start","timestamp":"2021-10-22 16:43:58"}
+{"level":"info","message":"dispatchableOrders:0","timestamp":"2021-10-22 16:43:59"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 16:44:11"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 16:44:11"}
+{"level":"info","message":"start TOrder-01 process","timestamp":"2021-10-22 16:44:11"}
+{"level":"info","message":"The sequence of destinations to visit are PP2,LM3,LM8,LM4,AP5","timestamp":"2021-10-22 16:44:11"}
+{"level":"info","message":"The sequence of destinations to visit are AP5,LM6,AP7","timestamp":"2021-10-22 16:44:11"}
+{"level":"info","message":"Service start","timestamp":"2021-10-22 16:48:31"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 16:48:32"}
+{"level":"info","message":"Service start","timestamp":"2021-10-22 22:41:50"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 22:41:51"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 22:41:51"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 22:41:52"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 22:41:52"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 22:41:53"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 22:41:53"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 22:41:54"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 22:41:54"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 22:41:55"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 22:41:55"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 22:41:56"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 22:41:56"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 22:41:57"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 22:41:57"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 22:41:58"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 22:41:58"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 22:41:59"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 22:41:59"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 22:42:00"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 22:42:00"}
+{"level":"info","message":"dispatchableOrders:1","timestamp":"2021-10-22 22:42:01"}
+{"level":"info","message":"The transport order that attempts to prepare for assignment: ","order":{"category":"Normal","deadline":"2021-10-120T17:42:40.396Z","destinations":[{"locationName":"AP5","operation":"sound","sound_args":{"loop":1,"name":"navigation"}},{"locationName":"AP7","operation":"sound","sound_args":{"loop":1,"name":"navigation"}}],"name":"TOrder-01","state":"DISPATCHABLE","wrappingSequence":"Sequence-01"},"timestamp":"2021-10-22 22:42:01"}
